@@ -44,10 +44,8 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Free and Powerful!
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |
+      HMDA Hero is free and always will be. 
     actions:
       - label: View Demo
         url: /docs/getting-started
