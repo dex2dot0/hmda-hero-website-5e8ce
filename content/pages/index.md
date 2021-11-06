@@ -29,7 +29,7 @@ sections:
         content: |
           Want to learn about the project and the motivation behind HMDA Hero? 
         actions:
-          - label: View Posts
+          - label: Learn More
             url: /blog
             style: link
       - title: Style Guide
