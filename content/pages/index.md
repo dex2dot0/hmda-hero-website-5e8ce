@@ -22,7 +22,7 @@ sections:
           documentation page for all the details on how the tool works and how
           you can get started. 
         actions:
-          - label: Get Started
+          - label: To the Docs!
             url: /docs
             style: link
       - title: About
