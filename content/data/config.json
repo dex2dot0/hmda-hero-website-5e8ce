@@ -21,22 +21,10 @@
                 "has_subnav": false
             },
             {
-                "label": "About",
-                "url": "#",
+                "label": "Documentation",
+                "url": "/docs",
                 "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
+                "has_subnav": false
             },
             {
                 "label": "Style Guide",
