@@ -36,6 +36,30 @@
     },
     "footer": {
         "content": "&copy; HMDA Hero. All rights reserved.",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            }
+        ]
     },
     "domain": "https://hmda-hero-website-5e8ce.netlify.app"
 }
