@@ -36,7 +36,7 @@ sections:
         content: |
           Visit our FAQ page to get answers to your questions. 
         actions:
-          - label: Learn More
+          - label: Get Answers
             url: /style-guide
             style: link
   - section_id: text-img
