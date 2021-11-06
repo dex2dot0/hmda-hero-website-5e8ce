@@ -7,7 +7,7 @@ $open-sans: 'Open Sans', sans-serif;
 
 // Fonts
 $font-primary: $open-sans, Helvetica, Arial, sans-serif !default;
-$font-monospace: Roboto, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !default;
+$font-monospace: $open-sans, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !default;
 
 // Colors
 $color-primary: #45CBB2 !default;
