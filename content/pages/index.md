@@ -43,7 +43,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: Free and Powerful!
+    title: Simple and Powerful!
     content: >
       Free forever! HMDA Hero is made to make quarter and year-end a bit easier!
       With some simple but powerful tools we help make scrubs easier, editing a
