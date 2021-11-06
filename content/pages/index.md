@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: HMDA Is Hard!
-    image: /images/3.jpg
+    image: /images/wesley-tingey-snNHKZ-mGfE-unsplash-af10b756.jpg
     content: >
       We'd like to change that or at least make it easier. HMDA Hero is a free
       forever open codebase that anyone can use freely or contribute to!
