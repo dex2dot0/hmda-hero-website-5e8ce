@@ -10,7 +10,7 @@ sections:
       Hero is free forever with an open codebase that anyone can use freely or
       contribute to!
     actions:
-      - label: Download
+      - label: Download HMDA Hero
         url: /docs
         style: primary
   - section_id: features
