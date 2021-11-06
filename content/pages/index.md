@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: HMDA Is Hard
+    title: HMDA Is Hard!
     image: images/5.jpg
     content: >
       We'd like to change that or at least make it easier. Best of all, HMDA
