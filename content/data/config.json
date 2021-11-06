@@ -21,7 +21,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Documentation",
+                "label": "About",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
