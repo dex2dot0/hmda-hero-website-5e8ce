@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Libris",
+        "title": "HMDA Hero",
         "logo_img": "images/HH_black.svg",
         "logo_img_alt": "HMDA Hero Logo",
         "has_nav": true,
