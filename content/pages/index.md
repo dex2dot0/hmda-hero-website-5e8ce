@@ -5,9 +5,10 @@ sections:
     type: section_hero
     title: HMDA Is Hard
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We'd like to change that or at least make it easier. Best of all, HMDA
+      Hero is free forever with an open codebase that anyone can use freely or
+      contribute to!
     actions:
       - label: Get Started
         url: /docs
