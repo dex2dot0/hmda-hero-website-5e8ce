@@ -22,7 +22,7 @@
             },
             {
                 "label": "About",
-                "url": "/docs",
+                "url": "/about",
                 "style": "link",
                 "has_subnav": false
             },
