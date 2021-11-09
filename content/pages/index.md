@@ -95,7 +95,7 @@ sections:
     title: Download the Microsoft Excel Add-in Today
     subtitle: Its free and simple to get started!
     actions:
-      - label: Get Started
+      - label: Download Now
         url: /docs/getting-started/installation
         style: primary
 seo:
