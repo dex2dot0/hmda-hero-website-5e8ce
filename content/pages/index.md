@@ -41,7 +41,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: /images/DNA_Monochromatic.svg
     image_position: left
     title: Simple and Powerful!
     content: >
