@@ -92,7 +92,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: Download the Excel Add-in Today
+    title: Download the Microsoft Excel Add-in Today
     subtitle: Its free and simple to get started!
     actions:
       - label: Get Started
