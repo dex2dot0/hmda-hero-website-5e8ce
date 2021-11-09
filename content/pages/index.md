@@ -41,7 +41,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: /images/DNA_Monochromatic.svg
+    image: /images/Data organization_Flatline.svg
     image_position: left
     title: Simple and Powerful!
     content: >
