@@ -70,7 +70,6 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Features
-    subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
       - title: Overview
