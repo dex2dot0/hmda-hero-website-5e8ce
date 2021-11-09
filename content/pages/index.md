@@ -58,10 +58,8 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Ease Your Burden
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |
+      Leave the 0s and 1s to the computers. HMDA Hero will 
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
