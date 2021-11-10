@@ -55,6 +55,22 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
+- section_id: text-img
+    type: section_content
+    image: /images/Data organization_Flatline.svg
+    image_position: left
+    title: Simple and Powerful!
+    content: >
+      Free forever! HMDA Hero is an Add-In for Microsoft Excel made to make
+      quarter and year-end HMDA filing a bit easier! With some simple but
+      powerful tools we help make scrubs easier, editing a breeze, and more.
+    actions:
+      - label: View Demo
+        url: /docs/getting-started
+        style: primary
+      - label: Get Started
+        url: /docs/getting-started
+        style: secondary
   - section_id: cta
     type: section_cta
     title: Download the Microsoft Excel Add-in Today
