@@ -55,18 +55,6 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-  - section_id: text-no-img
-    type: section_content
-    title: Ease Your Burden
-    content: >
-      Leave the 0s and 1s to the computers. HMDA Hero lets you continue to work
-      with your HMDA data in Microsoft Excel using the CFPB's LAR Formatting
-      Tool but instead of editing raw data, you get a powerful helper packed
-      with features.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
   - section_id: cta
     type: section_cta
     title: Download the Microsoft Excel Add-in Today
