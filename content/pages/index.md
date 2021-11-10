@@ -63,7 +63,7 @@ sections:
     content: >
         Feature 1
     actions:
-    - label: View Demo
+      - label: View Demo
         url: /docs/getting-started
         style: primary
     - label: Get Started
