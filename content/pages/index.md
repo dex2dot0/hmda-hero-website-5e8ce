@@ -66,7 +66,7 @@ sections:
       - label: View Demo
         url: /docs/getting-started
         style: primary
-    - label: Get Started
+      - label: Get Started
         url: /docs/getting-started
         style: secondary
   - section_id: cta
