@@ -55,6 +55,11 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: cta
     type: section_cta
     title: Download the Microsoft Excel Add-in Today
