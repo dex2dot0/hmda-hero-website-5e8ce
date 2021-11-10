@@ -55,7 +55,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-- section_id: feature-1
+  - section_id: feature-1
     type: section_content
     image: /images/Data organization_Flatline.svg
     image_position: left
