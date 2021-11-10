@@ -55,20 +55,20 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-- section_id: feature-1
-    type: section_content
-    image: /images/Data organization_Flatline.svg
-    image_position: left
-    title: Feature 1
-    content: >
-      Feature 1
-    actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
+    - section_id: feature-1
+        type: section_content
+        image: /images/Data organization_Flatline.svg
+        image_position: left
+        title: Feature 1
+        content: >
+        Feature 1
+        actions:
+        - label: View Demo
+            url: /docs/getting-started
+            style: primary
+        - label: Get Started
+            url: /docs/getting-started
+            style: secondary
   - section_id: cta
     type: section_cta
     title: Download the Microsoft Excel Add-in Today
