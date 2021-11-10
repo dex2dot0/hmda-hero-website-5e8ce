@@ -61,7 +61,7 @@ sections:
     image_position: left
     title: Feature 1
     content: >
-    Feature 1
+        Feature 1
     actions:
     - label: View Demo
         url: /docs/getting-started
