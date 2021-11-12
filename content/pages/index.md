@@ -63,9 +63,11 @@ sections:
     content: |
       ![](/images/jamstack.svg)
 
-
-
       # To This
+
+
+
+      ![](/images/DNA_Monochromatic.svg)
     actions: []
     type: section_hero
   - section_id: cta
