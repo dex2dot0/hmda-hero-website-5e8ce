@@ -52,7 +52,7 @@ sections:
       Filing resource links.
 
 
-      Importing and merging from multiple pipe-delimited LAR files.
+      Importing and merging from multiple pipe-delimited LAR formatted files.
 
 
       and more!
