@@ -12,33 +12,6 @@ sections:
       - label: Download HMDA Hero
         url: /docs
         style: primary
-  - section_id: features
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title: Documentation
-        content: >
-          To learn more about getting started with HMDA Hero, please visit our
-          documentation page for all the details on how the tool works and how
-          you can get started. 
-        actions:
-          - label: To the Docs!
-            url: /docs
-            style: link
-      - title: About
-        content: |
-          Want to learn about the project and the motivation behind HMDA Hero? 
-        actions:
-          - label: Learn More
-            url: /blog
-            style: link
-      - title: FAQ
-        content: |
-          Visit our FAQ page to get answers to your questions. 
-        actions:
-          - label: Get Answers
-            url: /style-guide
-            style: link
   - section_id: text-img
     type: section_content
     image: /images/Data organization_Flatline.svg
