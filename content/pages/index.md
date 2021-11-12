@@ -58,8 +58,7 @@ sections:
       and more!
     actions: []
     type: section_content
-  - title: Go from this
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: |
       ![](/images/jamstack.svg)
 
