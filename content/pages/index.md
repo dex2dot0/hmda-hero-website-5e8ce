@@ -39,12 +39,6 @@ sections:
           - label: Get Answers
             url: /style-guide
             style: link
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items: []
-    type: section_grid
   - section_id: text-img
     type: section_content
     image: /images/Data organization_Flatline.svg
