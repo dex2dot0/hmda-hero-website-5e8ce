@@ -18,9 +18,9 @@ sections:
     image_position: left
     title: Simple and Powerful!
     content: >
-      HMDA Hero is free forever Add-In for Microsoft Excel made to make quarter
-      and year-end HMDA filing a bit easier! With some simple but powerful tools
-      we help make scrubs easier, editing a breeze, and more.
+      HMDA Hero is a free forever Add-In for Microsoft Excel made to make
+      quarter and year-end HMDA filing a bit easier! With some simple but
+      powerful tools we help make scrubs easier, editing a breeze, and more.
     actions:
       - label: View Demo
         url: /docs/getting-started
