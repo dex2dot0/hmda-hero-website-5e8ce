@@ -33,35 +33,35 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: >
-      > *   Visual editor for adding, editing, importing, and exporting loan
+      > ###### Visual editor for adding, editing, importing, and exporting loan
       records.
 
 
-      > *   ULI generation and validation.
+      > ###### ULI generation and validation.
 
 
-      > *   Search across all loan records.
+      > ###### Search across all loan records.
 
 
-      > *   Works from the same
+      > ###### Works from the same
 
       >
 
-      > *   [CFPB LAR Formatting Tool
+      > ###### [CFPB LAR Formatting Tool
       ](https://ffiec.cfpb.gov/tools/lar-formatting)
 
       >
 
-      > *   you already use.
+      > ###### you already use.
 
 
-      > *   Embedded regulatory insights, links, and validations.
+      > ###### Embedded regulatory insights, links, and validations.
 
 
-      > *   Filing resource links.
+      > ###### Filing resource links.
 
 
-      > *   Importing and merging from multiple pipe-delimited LAR files.
+      > ###### Importing and merging from multiple pipe-delimited LAR files.
     actions: []
     type: section_content
   - section_id: feature-1
