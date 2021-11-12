@@ -39,7 +39,7 @@ sections:
           - label: Get Answers
             url: /style-guide
             style: link
-  - title: lorem-ips
+  - title: lorem-ip
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
