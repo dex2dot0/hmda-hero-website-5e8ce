@@ -55,11 +55,6 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
   - section_id: feature-1
     type: section_content
     image: /images/Data organization_Flatline.svg
