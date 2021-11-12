@@ -33,26 +33,29 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: >
-      Visual editor for adding, editing, importing, and exporting loan records.
+      Visual editor for adding, editing, importing, and exporting loan records
 
 
-      ULI generation and validation.
+      Exemption support
 
 
-      Search across all loan records.
+      ULI generation and validation
+
+
+      Search across all loan records
 
 
       Works from the same [CFPB LAR Formatting Tool
-      ](https://ffiec.cfpb.gov/tools/lar-formatting)you already use.
+      ](https://ffiec.cfpb.gov/tools/lar-formatting)you already use
 
 
-      Embedded regulatory insights, links, and validations.
+      Embedded regulatory insights, links, and validations
 
 
-      Filing resource links.
+      Filing resource links
 
 
-      Importing and merging from multiple pipe-delimited LAR formatted files.
+      Importing and merging from multiple pipe-delimited LAR formatted files
 
 
       and more!
