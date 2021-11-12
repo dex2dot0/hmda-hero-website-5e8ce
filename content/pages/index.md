@@ -32,17 +32,28 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      *   Visual editor for adding, editing, importing, and exporting loan
+      records.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   ULI generation and validation.
 
 
-      - Lorem ipsum
+      *   Search across all loan records.
 
-      - dolor sit amet
+
+      *   Works from the same [CFPB LAR Formatting Tool
+      ](https://ffiec.cfpb.gov/tools/lar-formatting)you already use.
+
+
+      *   Embedded regulatory insights, links, and validations.
+
+
+      *   Filing resource links.
+
+
+      *   Importing and merging from multiple pipe-delimited LAR files.
     actions: []
     type: section_content
   - section_id: feature-1
