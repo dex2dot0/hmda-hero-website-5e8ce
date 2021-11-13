@@ -25,5 +25,6 @@ export default {
     SectionCta,
     SectionDocs,
     SectionGrid,
-    SectionHero
+    SectionHero,
+    SectionGif
 };
