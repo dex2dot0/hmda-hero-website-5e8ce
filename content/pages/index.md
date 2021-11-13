@@ -66,7 +66,7 @@ sections:
       # ![](/images/index-recording.gif)
 
     actions: []
-    type: section_hero
+    type: section_gif
   - section_id: cta
     type: section_cta
     title: Download the Microsoft Excel Add-in Today
