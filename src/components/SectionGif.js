@@ -24,11 +24,6 @@ export default class SectionHero extends React.Component {
                     />
                 )}
                 <div className="inner-sm">
-                    {title && (
-                        <div className="block-header">
-                            <h1 className="block-title">{title}</h1>
-                        </div>
-                    )}
                     {content && <div className="block-content">{markdownify(content)}</div>}
                     {!_.isEmpty(actions) && (
                         <div className="block-buttons">
