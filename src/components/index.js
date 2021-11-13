@@ -10,7 +10,7 @@ import SectionCta from './SectionCta';
 import SectionDocs from './SectionDocs';
 import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
-import SectionGif from './Sect'
+import SectionGif from './SectionGif';
 
 export { Action, CtaButtons, DocsMenu, Footer, Header, Layout, Icon, SectionContent, SectionCta, SectionDocs, SectionGrid, SectionHero };
 
