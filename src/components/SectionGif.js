@@ -24,7 +24,7 @@ export default class SectionHero extends React.Component {
                     />
                 )}
                 <div className="inner-sm">
-                    {content && <div className="block-content">{markdownify(content)}</div>}
+                    {content && <div className="block-gif">{markdownify(content)}</div>}
                     {!_.isEmpty(actions) && (
                         <div className="block-buttons">
                             <CtaButtons actions={actions} />
