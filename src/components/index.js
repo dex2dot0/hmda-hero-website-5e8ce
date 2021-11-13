@@ -12,7 +12,7 @@ import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
 import SectionGif from './SectionGif';
 
-export { Action, CtaButtons, DocsMenu, Footer, Header, Layout, Icon, SectionContent, SectionCta, SectionDocs, SectionGrid, SectionHero, SectionGif };
+export { Action, CtaButtons, DocsMenu, Footer, Header, Layout, Icon, SectionContent, SectionCta, SectionDocs, SectionGrid, SectionHero, SectionGif, };
 
 export default {
     Action,
