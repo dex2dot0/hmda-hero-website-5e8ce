@@ -26,5 +26,5 @@ export default {
     SectionDocs,
     SectionGrid,
     SectionHero,
-    SectionGif
+    SectionGif,
 };
