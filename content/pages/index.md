@@ -62,14 +62,9 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    content: |
-      ![](/images/jamstack.svg)
+    content: |+
+      # ![](/images/index-recording.gif)
 
-      # To This
-
-
-
-      ![](/images/DNA_Monochromatic.svg)
     actions: []
     type: section_hero
   - section_id: cta
