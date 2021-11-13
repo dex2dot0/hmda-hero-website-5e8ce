@@ -23,7 +23,7 @@ export default class SectionHero extends React.Component {
                         }}
                     />
                 )}
-                <div className="inner-sm">
+                <div className="gif-sm">
                     {content && <div className="block-gif">{markdownify(content)}</div>}
                     {!_.isEmpty(actions) && (
                         <div className="block-buttons">
