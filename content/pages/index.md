@@ -92,7 +92,7 @@ seo:
       value: HMDA Hero Homepage
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: HMDA Hero Homepage
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
