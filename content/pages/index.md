@@ -82,7 +82,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
 seo:
-  title: HMDA Hero Homepage
+  title: HMDA Hero
   description: 
   extra:
     - name: 'og:type'
