@@ -83,7 +83,7 @@ sections:
         style: primary
 seo:
   title: HMDA Hero
-  description: 
+  description: HMDA Hero Homepage
   extra:
     - name: 'og:type'
       value: website
