@@ -1,7 +1,7 @@
 ---
 title: Welcome to HMDA Hero
 seo:
-  title: Welcome to Hero
+  title: Welcome to Hero Hero
   description: This is the documentation page
   extra:
     - name: 'og:type'
