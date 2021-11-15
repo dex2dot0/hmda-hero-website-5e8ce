@@ -23,12 +23,6 @@ export default class Footer extends React.Component {
                                 <Action key={index} action={action} />
                             ))}
                         </p>
-                        <p className="site-info">
-                            {copyright && <span className="copyright">{htmlToReact(copyright)} "Microsoft Excel" is a Microsoft Corporation product name in the United States.</span>}
-                            {_.map(links, (action, index) => (
-                                <Action key={index} action={action} />
-                            ))}
-                        </p>
                         {hasSocial && !_.isEmpty(socialLinks) && (
                             <div className="social-links">
                                 {_.map(socialLinks, (action, index) => (
