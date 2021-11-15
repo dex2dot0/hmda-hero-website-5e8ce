@@ -18,7 +18,7 @@ export default class Footer extends React.Component {
                 <div className="inner">
                     <div className="site-footer-inside">
                         <p className="site-info">
-                            {copyright && <span className="copyright">{htmlToReact(copyright)} "Microsoft Excel" is a Microsoft Corporation product name in the United States.</span>}
+                            {copyright && <span className="copyright">{htmlToReact(copyright)}</span>}
                             {_.map(links, (action, index) => (
                                 <Action key={index} action={action} />
                             ))}
