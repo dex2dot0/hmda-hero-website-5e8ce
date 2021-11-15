@@ -13,8 +13,6 @@ seo:
     - name: 'og:description'
       value: This is the documentation page
       keyName: property
-    - name: 'twitter:title'
-      value: Welcome to HMDA Hero
 layout: docs
 ---
 
