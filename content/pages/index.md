@@ -28,6 +28,12 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: section_grid
   - title: Features
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
