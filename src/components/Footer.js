@@ -32,7 +32,7 @@ export default class Footer extends React.Component {
                         )}
                     </div>
                     <p>
-                        <span className="site-info>"Microsoft Excel" is a Microsoft Corporation product name in the United States.</span>
+                        <span className="site-info">Microsoft Excel" is a Microsoft Corporation product name in the United States.</span>
                     </p>
                 </div>
             </footer>
