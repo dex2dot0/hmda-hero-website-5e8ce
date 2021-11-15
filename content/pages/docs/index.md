@@ -18,7 +18,7 @@ seo:
 layout: docs
 ---
 
-HMDA is a burden, HMDA Hero helps ma
+HMDA is a burden, HMDA Hero helps 
 
 ***
 
