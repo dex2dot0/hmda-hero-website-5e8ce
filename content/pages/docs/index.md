@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to Libris
+      value: Welcome to HMDA Hero
       keyName: property
     - name: 'og:description'
       value: This is the documentation page
