@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Libris
+      value: Welcome to HMDA Hero
     - name: 'twitter:description'
       value: This is the documentation page
 layout: docs
