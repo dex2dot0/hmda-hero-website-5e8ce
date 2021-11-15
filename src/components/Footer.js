@@ -31,7 +31,7 @@ export default class Footer extends React.Component {
                             </div>
                         )}
                     </div>
-                    <p className="site-info">
+                    <p>
                             {copyright && <span className="copyright">{htmlToReact(copyright)} "Microsoft Excel" is a Microsoft Corporation product name in the United States.</span>}
                             {_.map(links, (action, index) => (
                                 <Action key={index} action={action} />
