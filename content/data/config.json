@@ -30,7 +30,7 @@
         "logo_img": "/images/Final Illustrator AI_09.png"
     },
     "footer": {
-        "content": `&copy; HMDA Hero. All rights reserved. "Microsoft (R) Excel" is a Microsoft Corporation product name in the United States.',
+        "content": `&copy; HMDA Hero. All rights reserved. "Microsoft (R) Excel" is a Microsoft Corporation product name in the United States.``,
         "has_social": true,
         "social_links": [
             {
