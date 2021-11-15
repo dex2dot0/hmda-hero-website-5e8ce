@@ -16,7 +16,7 @@ seo:
 layout: docs
 ---
 
-HMDA is a burden, HMDA Hero helps carry some of the weight! Best of all HMDA Hero is a free and open source resource t
+HMDA is a burden, HMDA Hero helps carry some of the weight! Best of all HMDA Hero is a free and open source resource that is available 
 
 ***
 
