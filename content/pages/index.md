@@ -52,7 +52,7 @@ sections:
 
 
       Works from the same [CFPB LAR Formatting Tool
-      ](https://ffiec.cfpb.gov/tools/lar-formatting)you already use
+      ](https://ffiec.cfpb.gov/tools/lar-formatting) you already use
 
 
       Embedded regulatory insights, links, and validations
