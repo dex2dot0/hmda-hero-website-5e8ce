@@ -16,7 +16,7 @@ seo:
 layout: docs
 ---
 
-HMDA is a burden, HMDA Hero helps carry some of the weight! 
+HMDA is a burden, HMDA Hero helps carry some of the weight! Best of all HMDA Hero is 
 
 ***
 
