@@ -17,8 +17,6 @@ seo:
       value: summary
     - name: 'twitter:title'
       value: Welcome to HMDA Hero
-    - name: 'twitter:description'
-      value: This is the documentation page
 layout: docs
 ---
 
