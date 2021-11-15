@@ -83,7 +83,7 @@ sections:
         style: primary
 seo:
   title: HMDA Hero Homepage
-  description: The preview of the Libris theme
+  description: 
   extra:
     - name: 'og:type'
       value: website
