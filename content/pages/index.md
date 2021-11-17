@@ -61,7 +61,6 @@ sections:
       and more!
     actions: []
     type: section_content
-  ---
   - section_id: lorem-ipsum
     content: |+
       # ![](/images/index-recording.gif)
