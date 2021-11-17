@@ -28,7 +28,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
----
+  ---
   - title: Features
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
