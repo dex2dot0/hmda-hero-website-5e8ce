@@ -3,7 +3,7 @@ title: Prerequisites
 weight: 1
 seo:
   title: Prerequisites
-  description: Required 
+  description: Requirements to get started
   extra:
     - name: 'og:type'
       value: website
