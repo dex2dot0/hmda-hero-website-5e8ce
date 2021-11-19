@@ -25,7 +25,7 @@ layout: docs
 
 ## Download Excel Add-In
 
-HMDA Hero 
+HMDA Hero only works 
 
 ### HTML example
 
