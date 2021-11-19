@@ -23,7 +23,7 @@ seo:
 layout: docs
 ---
 
-## Callouts
+## Microsoft Excel
 
 There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
 
