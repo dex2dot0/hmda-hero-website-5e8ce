@@ -24,9 +24,4 @@ seo:
       value: This is the about page
 layout: docs
 ---
-
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
-
-***
-
-Here are the articles in this section:
+HMDA Hero is a free Microsoft Excel Add-In that can assist you with getting your HMDA data ready for submission. 
