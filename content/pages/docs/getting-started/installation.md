@@ -25,7 +25,7 @@ layout: docs
 
 ## Download Microsoft Excel Add-In
 
-HMDA Hero only works in a
+HMDA Hero only works within a Microsoft Excel spreadsheet. 
 
 ### HTML example
 
