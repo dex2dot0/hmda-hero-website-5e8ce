@@ -25,7 +25,11 @@ layout: docs
 
 ## Download Microsoft Excel Add-In
 
-HMDA Hero only works within a Microsoft Excel spreadsheet.
+<div class="note">
+  <strong>Note:</strong> 
+  This is a "Note" callout block of text. 
+  This block signifies a general note.
+</div>
 
 ### HTML example
 
