@@ -25,7 +25,7 @@ layout: docs
 
 <div class="note">
   <strong>Note:</strong>
-  You will need 
+  You will need t
   <strong>Getting Started</strong> section.
 </div>
 
