@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:description'
       value: This is the installation page
 layout: docs
----Installing HMDA Hero
+---
 
 <div class="note">
   <strong>Note:</strong> 
