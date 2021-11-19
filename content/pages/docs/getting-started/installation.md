@@ -30,7 +30,7 @@ layout: docs
   HMDA Hero only works within a Microsoft Excel spreadsheet.
 </div>
 
-There a few options o download and get started with HMDA Hero.
+There a few options  download and get started with HMDA Hero.
 
 ### Download Method 1
 
