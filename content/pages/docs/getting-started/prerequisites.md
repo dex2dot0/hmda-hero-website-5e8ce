@@ -29,24 +29,7 @@ You will need Microsoft Excel in order to use HMDA Hero since HMDA Hero is an Ex
 
 ## CFPB LAR Formatting Tool
 
-Copy the code and modify these blocks according to your needs.
 
-```
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
-
-```
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
 
 ### Live example
 
