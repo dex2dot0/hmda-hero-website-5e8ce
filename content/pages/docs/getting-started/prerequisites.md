@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Prerequisites
     - name: 'twitter:description'
-      value: This is the installation page
+      value: Requirements to get started
 layout: docs
 ---
 
