@@ -12,7 +12,7 @@ seo:
       value: Installation
       keyName: property
     - name: 'og:description'
-      value: This is the installation page
+      value: Installing HMDA Hero
       keyName: property
     - name: 'twitter:card'
       value: summary
