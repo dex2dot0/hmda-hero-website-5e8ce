@@ -30,7 +30,9 @@ layout: docs
   HMDA Hero only works within a Microsoft Excel spreadsheet.
 </div>
 
-### 
+### Download Method 1
+
+
 
 ### HTML example
 
