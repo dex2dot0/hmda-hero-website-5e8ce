@@ -29,7 +29,7 @@ You will need Microsoft Excel in order to use HMDA Hero since HMDA Hero is an Ex
 
 ## CFPB LAR Formatting Tool
 
-HMDA Hero works best 
+HMDA Hero 
 
 ### Live example
 
