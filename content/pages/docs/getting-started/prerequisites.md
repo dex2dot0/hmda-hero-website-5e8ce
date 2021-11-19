@@ -29,7 +29,9 @@ You will need Microsoft Excel in order to use HMDA Hero since HMDA Hero is an Ex
 
 ## CFPB LAR Formatting Tool
 
-HMDA Hero is designed to add rich functionality to the CFPB's [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting). 
+HMDA Hero is designed to add rich functionality to the CFPB's [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting).
+
+
 
 ### Live example
 
