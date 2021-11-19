@@ -23,14 +23,6 @@ seo:
 layout: docs
 ---
 
-<div class="note">
-  <strong>Note:</strong>
-  You will need to ensure all requirements from the
-  <strong>Prerequisites</strong> section are met in order to 
-</div>
-
-<hr>
-
 ## Callouts
 
 There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
