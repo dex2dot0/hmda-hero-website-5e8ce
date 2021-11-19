@@ -26,7 +26,7 @@ layout: docs
 <div class="note">
   <strong>Note:</strong>
   You will need to ensure all requirements from the
-  <strong>GPrerequisites</strong> section.
+  <strong>Prerequisites</strong> section.
 </div>
 
 <hr>
