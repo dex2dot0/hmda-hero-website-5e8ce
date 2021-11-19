@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Installation
     - name: 'twitter:description'
-      value: This is the installation page
+      value: Installing HMDA Hero
 layout: docs
 ---
 
