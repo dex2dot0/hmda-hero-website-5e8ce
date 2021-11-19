@@ -30,14 +30,3 @@ You will need Microsoft Excel in order to use HMDA Hero. All Microsoft Excel ver
 ## CFPB LAR Formatting Tool
 
 HMDA Hero is designed to add rich functionality to the CFPB's [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting). You can download the Microsoft Excel template at the link above and will need it while using HMDA Hero. While HMDA Hero will work in on any Excel spreadsheet, it relies on the specific formatting of the CFPB's version.  
-
-
-## Start using Libris theme
-
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
-
-<br>
-
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
