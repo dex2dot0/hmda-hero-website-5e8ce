@@ -3,7 +3,7 @@ title: Prerequisites
 weight: 1
 seo:
   title: Prerequisites
-  description: This is the installation page
+  description: Before getting started
   extra:
     - name: 'og:type'
       value: website
