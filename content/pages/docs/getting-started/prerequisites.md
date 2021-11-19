@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Installation
+      value: Prerequisites
     - name: 'twitter:description'
       value: This is the installation page
 layout: docs
