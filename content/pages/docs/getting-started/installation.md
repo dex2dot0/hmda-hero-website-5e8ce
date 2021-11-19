@@ -3,7 +3,7 @@ title: Installation
 weight: 2
 seo:
   title: Installation
-  description: This is the installation page
+  description: Installing HMDA Hero
   extra:
     - name: 'og:type'
       value: website
