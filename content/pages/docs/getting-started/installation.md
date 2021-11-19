@@ -25,7 +25,7 @@ layout: docs
 
 ## Download Excel Add-In
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
+HMDA Hero 
 
 ### HTML example
 
