@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Prerequisites
 weight: 1
 seo:
   title: Installation
