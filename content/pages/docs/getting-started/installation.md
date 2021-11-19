@@ -27,8 +27,7 @@ layout: docs
 
 <div class="note">
   <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
+  HMDA Hero only works within a Microsoft Excel spreadsheet.
 </div>
 
 HMDA Hero only works within a Microsoft Excel spreadsheet.
