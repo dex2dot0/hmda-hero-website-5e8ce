@@ -25,7 +25,7 @@ layout: docs
 
 ## Microsoft Excel
 
-You will need Microsoft Excel in order to use HMDA Hero since HMDA Hero is an Excel Add-In. All Microsoft Excel versions are supported including Desktop version and Web. 
+You will need Microsoft Excel in order to use HMDA Hero since HMDA Hero is an Excel Add-In. All Microsoft Excel versions are supported including Desktop version and Web browser based versions. 
 
 ### HTML example
 
