@@ -3,7 +3,7 @@ title: Submitting Feedback
 excerpt: >-
   We welcome your feedback and hope to improve the product in any way that we can!
 seo:
-  title: Manage Content
+  title: Submitting Feedback
   description: This is the manage content page
   extra:
     - name: 'og:type'
