@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Manage Content
+      value: Edit Loan
     - name: 'twitter:description'
       value: Editing Loan Records
 layout: docs
