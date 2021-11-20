@@ -24,7 +24,7 @@ seo:
 layout: docs
 ---
 
-Manually adding a loan record to 
+Manually adding a loan record to the LAR is never a simple task
 
 ***
 
