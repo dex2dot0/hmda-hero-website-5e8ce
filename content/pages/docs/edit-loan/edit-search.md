@@ -3,7 +3,7 @@ title: Edit Search
 weight: 1
 seo:
   title: Edit Search
-  description: Searching for 
+  description: Searching for Loan Records
   extra:
     - name: 'og:type'
       value: website
