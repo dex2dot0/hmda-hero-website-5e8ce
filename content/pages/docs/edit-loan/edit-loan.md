@@ -26,4 +26,6 @@ layout: docs
 
 Once a loan has selected, the real work begins. The loan is loaded in to HMDA Hero and all the reportable fields are easily accessible and ready for update. 
 
-Moreover, HMDA Hero will help provide immediate feedback on the type of data you can enter for each field as well as regulatory references to ensure you know exactly how to report the data for the loan!
+Moreover, HMDA Hero will help provide immediate feedback on the type of data you can enter for each field as well as regulatory references to ensure you know exactly how to report the data for the loan! 
+
+
