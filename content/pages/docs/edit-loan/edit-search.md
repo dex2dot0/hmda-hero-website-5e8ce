@@ -2,7 +2,7 @@
 title: Edit Search
 weight: 1
 seo:
-  title: Installation
+  title: Edit Search
   description: Installing HMDA Hero
   extra:
     - name: 'og:type'
