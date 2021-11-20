@@ -24,7 +24,7 @@ seo:
 layout: docs
 ---
 
-Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-up
+Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-up. 
 
 ***
 
