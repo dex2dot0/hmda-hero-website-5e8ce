@@ -26,6 +26,8 @@ layout: docs
 
 Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-up but of course reliably for the last 15 years. It's proved its worth and been a loyal companion so you're happy to keep it around. We get it. 
 
+Come HMDA time though, you might be singing a different praise! 
+
 ***
 
 Here are the articles in this section:
