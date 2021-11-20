@@ -15,7 +15,7 @@ seo:
       keyName: property
 layout: docs
 ---
-HMDA is a burden, HMDA Hero helps carry some of the weight! Best of all HMDA Hero is a free and open source resource that is available to everyone.
+HMDA is a burden and HMDA Hero is here to help carry some of the weight! Best of all HMDA Hero is a free and open source resource that is available to everyone.
 
 ***
 
@@ -23,4 +23,4 @@ We would be remiss without giving proper and due credit to the great people at [
 
 ***
 
-As a free and open source resource, we are limited in bandwidth and can not possibly implement every feature and request. While we'd like to make this the world's best tool for HMDA filing and compilation, we have certain restraints and hope that you appreciate our limitations. With that in mind we'd happily welcome any positive and productive feedback and hope you'd refer to our Submitting Feedback section to learn more. Additionally, if you'd like to contribute to this project, we'd love to collaborate and invite you to review the project on GitHub for further information. 
+As a free and open source resource, we are limited in bandwidth and can not possibly implement every feature and request. While we'd like to make this the world's best tool for HMDA filing and compilation, we have certain restraints and hope that you appreciate our limitations. With that in mind we'd happily welcome any positive and productive feedback and hope you'd refer to our Submitting Feedback section to learn more. Additionally, if you'd like to contribute to this project, we'd love to collaborate and invite you to review the project on GitHub for further information.
