@@ -1,6 +1,6 @@
 ---
 title: Installation
-weight: 2
+weight: 21
 seo:
   title: Installation
   description: Installing HMDA Hero
