@@ -1,7 +1,8 @@
 ---
 title: Editing a Loan Record
 excerpt: >-
-  In this section you'll learn how to quickly search, find, and start editing a loan record.
+  In this section you'll learn how to quickly search, find, and start editing a
+  loan record.
 seo:
   title: Edit Loan
   description: Editing Loan Records
@@ -23,6 +24,9 @@ seo:
       value: Editing Loan Records
 layout: docs
 ---
+You know the drill. You exported a nice clean loan record from your loan system only to find out that it wasn't so clean after all. Not to worry! HMDA Hero makes it easy to track down that record and edit the specific data that's keeping you from enjoying that nice glass of Chardonnay. 
+
+
 
 <div class="note">
   <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
@@ -53,22 +57,20 @@ a:hover {
 
 The rendered output looks like this:
 
-```
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
+    body {
+      background: #fff;
+      color: #666;
+      line-height: 1.66667; }
 
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
+    a {
+      color: #d4a259;
+      text-decoration: underline;
+      -webkit-transition: background .3s ease, color .3s ease;
+      transition: background .3s ease, color .3s ease; }
 
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
+    a:hover {
+      color: #1d1d1d;
+      text-decoration: none; }
 
 ## Callouts
 
@@ -78,22 +80,20 @@ There are two types of callouts available in this theme, **note** and **importan
 
 Copy the code and modify these blocks according to your needs.
 
-```
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
+    <div class="important">
+      <strong>Important:</strong> 
+      This is an "Important" callout block of text.
+      This block indicates a warning or caution. 
+      Use it for an important message. 
+    </div>
 
-```
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
+<!---->
+
+    <div class="note">
+      <strong>Note:</strong> 
+      This is a "Note" callout block of text. 
+      This block signifies a general note.
+    </div>
 
 ### Live example
 
