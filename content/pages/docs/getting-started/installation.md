@@ -22,7 +22,6 @@ seo:
       value: Installing HMDA Hero
 layout: docs
 ---
-
 ## Download Microsoft Excel Add-In
 
 <div class="note">
@@ -30,32 +29,32 @@ layout: docs
   HMDA Hero will only work properly within a Microsoft Excel spreadsheet. See the Prequisites section for more details.
 </div>
 
-There a few options you can choose for downloading the HMDA Hero Micorosoft Excel Add-In.
+
+
+There a few options you can choose for downloading the HMDA Hero Micorosoft Excel Add-In. In effect, HMDA Hero is available wherever Microsoft Excel makes it available. 
 
 ### Download Method 1
 
-Visit this link to acess the download. 
+Visit this link to acess the download.
 
 ### HTML example
 
 Copy the code and modify these blocks according to your needs.
 
-```
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
+    <div class="important">
+      <strong>Important:</strong> 
+      This is an "Important" callout block of text.
+      This block indicates a warning or caution. 
+      Use it for an important message. 
+    </div>
 
-```
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
+<!---->
+
+    <div class="note">
+      <strong>Note:</strong> 
+      This is a "Note" callout block of text. 
+      This block signifies a general note.
+    </div>
 
 ### Live example
 
@@ -81,7 +80,7 @@ Copy the code and modify these blocks according to your needs.
   Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
 </div>
 
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
+You can create simple code blocks by placing triple backticks <code>\`\`\`</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
 
 <pre>```
 if (condition) {
@@ -92,13 +91,11 @@ if (condition) {
 ```
 </pre>
 
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
+    if (condition) {
+      code to run if condition is true
+    } else {
+      run some other code instead
+    }
 
 <hr>
 
