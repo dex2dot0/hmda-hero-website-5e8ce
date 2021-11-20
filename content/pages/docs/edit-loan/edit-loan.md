@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Manage Content
+      value: Loan Editing & Validation
       keyName: property
     - name: 'og:description'
       value: Loan Editing & Validation
