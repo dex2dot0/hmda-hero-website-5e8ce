@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: UI Components
+      value: Add Loan
     - name: 'twitter:description'
       value: This is the UI components page
 layout: docs
