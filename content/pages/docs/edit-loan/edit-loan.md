@@ -1,7 +1,7 @@
 ---
 title: Loan Editing
 excerpt: >-
-  After a loan is selected, HMDA Hero loads the data and offers tools to update and 
+  After a loan is selected, HMDA Hero loads the data and offers tools to update validate data points. 
 seo:
   title: Edit Loan
   description: Editing Loan Records
