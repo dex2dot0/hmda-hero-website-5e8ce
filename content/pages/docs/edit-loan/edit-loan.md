@@ -1,5 +1,5 @@
 ---
-title: Editing a Loan Record
+title: Loan Editing
 excerpt: >-
   In this section you'll learn how to quickly search, find, and start editing a
   loan record.
