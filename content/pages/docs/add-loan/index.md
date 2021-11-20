@@ -24,7 +24,7 @@ seo:
 layout: docs
 ---
 
-Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-upof course reliably for the last 15 years. It's proved its worth and been a loyal companion so you're happy to keep it around. We get it. 
+Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-up but maybe that is of course reliably for the last 15 years. It's proved its worth and been a loyal companion so you're happy to keep it around. We get it. 
 
 Come HMDA time though, you might be singing a different praise and a tune that is more fit for a sailor. That's where HMDA Hero comes in. 
 
