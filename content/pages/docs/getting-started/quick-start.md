@@ -24,7 +24,9 @@ layout: docs
 ---
 ## After Installation
 
-In Microsoft Excel, once you have installed HMDA Hero, there should be a new menu item for HMDA Hero in the Excel Ribbon. You will use this menu to activate and interact with HMDA Hero tooling. 
+In Microsoft Excel, once you have installed HMDA Hero, there should be a new menu item for HMDA Hero in the Excel Ribbon. You will use this menu to activate and interact with HMDA Hero tooling.
+
+![](/images/HMDA%20Hero%20Excel%20Ribbon.png)
 
 ### HTML example
 
