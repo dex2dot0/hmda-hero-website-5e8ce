@@ -4,7 +4,7 @@ excerpt: >-
   To make it easy to add new HMDA LAR records, HMDA Hero has an included Add Loan feature. This takes the guess work out of mapping numbers and provides an easy interface to exponentially speed manual entry. 
 seo:
   title: Add Loan
-  description: This is the UI components page
+  description: Add Loan Tool
   extra:
     - name: 'og:type'
       value: website
