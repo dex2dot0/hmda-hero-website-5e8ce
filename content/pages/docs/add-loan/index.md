@@ -1,7 +1,9 @@
 ---
 title: Adding a Loan Record
 excerpt: >-
-  To make it easy to add new HMDA LAR records, HMDA Hero has an included Add Loan feature. This takes the guess work out of mapping numbers and provides an easy interface to exponentially speed manual entry. 
+  To make it easy to add new HMDA LAR records, HMDA Hero has an included Add
+  Loan feature. This takes the guess work out of mapping numbers and provides an
+  easy interface to exponentially speed manual entry. 
 seo:
   title: Add Loan
   description: Add Loan Tool
@@ -23,16 +25,16 @@ seo:
       value: Add Loan Documentation
 layout: docs
 ---
+Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-up but maybe that is of course reliably for the last 15 years. It's proved its worth and been a loyal companion so you're happy to keep it around. We get it.
 
-Manually adding a loan record to the LAR is never a simple task but sometimes it is unfortunately necessary. Maybe your loan system is still talking dial-up but maybe that is of course reliably for the last 15 years. It's proved its worth and been a loyal companion so you're happy to keep it around. We get it. 
-
-Come HMDA time though, you might be singing a different praise and a tune that is more fit for a sailor. That's where HMDA Hero comes in. 
+Come HMDA time though, you might be singing a different praise and a tune that is more fit for a sailor. That's where HMDA Hero comes in.
 
 ***
 
 **Add Loan**
 
-To get started, make sure you have already followed our instructions in the Get Started section. 
+To get started, make sure you have already followed our instructions in the Get Started section.
 
 Next, you'll want to launch the Add Loan tool from the HMDA Hero menu:
 
+![](/images/Add%20Loan%20Menu%20Icon.png)
