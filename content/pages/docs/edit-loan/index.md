@@ -24,9 +24,7 @@ seo:
       value: Editing Loan Records
 layout: docs
 ---
-You know the drill. You exported a nice clean loan record from your loan system only to find out that it wasn't so clean after all. Not to worry! HMDA Hero makes it easy to track down that record and edit the specific data that's keeping you from enjoying that nice glass of Chardonnay. 
-
-
+You know the drill. You exported a nice clean loan record from your loan system only to find out that it wasn't so clean after all. Not to worry! HMDA Hero makes it easy to track down that record and edit the specific data that's keeping you from enjoying that nice glass of Chardonnay. Or perhaps you're more of a whiskey fan like myself. To each their own! 
 
 <div class="note">
   <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
