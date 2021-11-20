@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Installation
+      value: Edit Search
     - name: 'twitter:description'
       value: Installing HMDA Hero
 layout: docs
