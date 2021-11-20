@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Edit Search
     - name: 'twitter:description'
-      value: Installing HMDA Hero
+      value: Searching for Loan Records
 layout: docs
 ---
 ## Download Microsoft Excel Add-In
