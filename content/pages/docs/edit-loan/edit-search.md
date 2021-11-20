@@ -31,7 +31,7 @@ layout: docs
 
 To get started, make sure you have already followed our instructions in the Get Started section.
 
-### Open the Edit Loan 
+### Open the Edit Loan menu
 
 To Do
 
