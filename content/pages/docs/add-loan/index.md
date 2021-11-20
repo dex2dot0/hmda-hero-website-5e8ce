@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: UI Components
+      value: Add Loan
       keyName: property
     - name: 'og:description'
       value: This is the UI components page
