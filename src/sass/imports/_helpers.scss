@@ -42,7 +42,8 @@
 
 // Notifications, allerts
 .note,
-.important {
+.important
+,positive {
     border-radius: $border-radius;
     color: $gray-700;
     margin: 1.875em 0;
