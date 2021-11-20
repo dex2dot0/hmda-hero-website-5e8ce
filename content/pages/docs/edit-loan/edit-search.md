@@ -38,4 +38,10 @@ Using the **Search By** dropdown you can search by a number of different loan at
 
 ![](/images/Address%20Search.png)
 
-Once you have found the loan you need to edit, click on the **Edit Loan** button.
+
+
+Once you have found the loan you need to edit, click on the **Edit Loan** button:
+
+
+
+![](/images/Edit%20Loan%20Button.png)
