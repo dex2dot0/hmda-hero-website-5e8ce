@@ -24,11 +24,11 @@ layout: docs
 ---
 ## Microsoft Excel
 
-HMDA Hero is powered by Microsoft Excel so you will need to have access to Microsoft Excel in order to use the HMDA Hero tool. All modern Microsoft Excel versions are supported including Desktop version and Web browser based versions.
+HMDA Hero is powered by Microsoft Excel so you will need to have access to Microsoft Excel in order to use the HMDA Hero tool. All modern Microsoft Excel versions are supported including Desktop and Web browser based versions.
 
 ## CFPB LAR Formatting Tool
 
-HMDA Hero is designed to add rich functionality to the CFPB's [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting). You can download the Microsoft Excel template at the link above and will need it while using HMDA Hero. 
+HMDA Hero is designed to add rich functionality to the CFPB's [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting). You can download the Microsoft Excel template at the link above and will need it while using HMDA Hero.
 
 <div class="note">
   <strong>Note:</strong> 
