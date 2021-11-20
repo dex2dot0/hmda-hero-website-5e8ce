@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Edit Search
 weight: 1
 seo:
   title: Installation
