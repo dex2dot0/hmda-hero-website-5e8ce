@@ -4,7 +4,7 @@ excerpt: >-
   We welcome your feedback and hope to improve the product in any way that we can!
 seo:
   title: Submitting Feedback
-  description: This is the manage content page
+  description: Feedback Submission
   extra:
     - name: 'og:type'
       value: website
