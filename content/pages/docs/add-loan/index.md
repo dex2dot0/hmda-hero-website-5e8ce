@@ -39,9 +39,12 @@ Next, you'll want to launch the Add Loan tool from the HMDA Hero menu:
 
 ![](/images/Add%20Loan%20Menu%20Icon.png)
 
+The HMDA Hero Add Loan tool will pop up on the right of your spreadsheet and provide all the fields you need so you can quickly start entering your loan record manually. Moreover, it will help provide immediate feedback on the type of data you can enter for each field as well as regulatory references to ensure you know exactly how to report the data for the loan!
 
 
-The HMDA Hero Add Loan tool will pop up on the right of your spreadsheet and provide all the fields you need so you can quickly start entering your loan record manually. Moreover, it will help provide immediate feedback on the type of data you can enter for each field as well as regulatory references to ensure you know exactly how to report the data for the loan! 
 
-If you already have loans that are included in a pipe delimited HMDA LAR format and need to import them, please see our documentation on importing. 
+\<div class="note">
+  \<strong>Note:\</strong> 
+  If you already have loans that are included in a pipe delimited HMDA LAR format and need to import them, please see our documentation on importing.
+\</div>
 
