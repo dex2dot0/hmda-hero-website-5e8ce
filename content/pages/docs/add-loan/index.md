@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:title'
       value: Add Loan
     - name: 'twitter:description'
-      value: This is the UI components page
+      value: Add Loan Documentation
 layout: docs
 ---
 
