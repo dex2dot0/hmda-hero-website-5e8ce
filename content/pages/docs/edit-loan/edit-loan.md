@@ -24,4 +24,4 @@ seo:
 layout: docs
 ---
 
-Once a loan has selected, the real work begins. 
+Once a loan has selected, the real work begins. The loan is loaded in to HMDA Hero and all the LAR 
