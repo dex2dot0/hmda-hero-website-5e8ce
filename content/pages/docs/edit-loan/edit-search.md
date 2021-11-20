@@ -29,7 +29,7 @@ layout: docs
   The search functionality will only show existing loan records
 </div>
 
-
+To get started, make sure you have already followed our instructions in the Get Started section.
 
 ### Download Method 1
 
