@@ -31,6 +31,6 @@ HMDA Hero is powered by Microsoft Excel so you will need to have access to Micro
 HMDA Hero is designed to add rich functionality to the CFPB's [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting). You can download the Microsoft Excel template at the link above and will need it while using HMDA Hero. 
 
 <div class="note">
-  \<strong>Note:\</strong> 
+  <strong>Note:\</strong> 
   While HMDA Hero will work on any Excel spreadsheet, it relies on the specific formatting of the CFPB's version to work properly.
 </div>
