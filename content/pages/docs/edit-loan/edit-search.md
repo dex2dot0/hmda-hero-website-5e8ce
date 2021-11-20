@@ -33,8 +33,4 @@ To get started, make sure you have already followed our instructions in the Get 
 
 ### Open the Edit Loan menu
 
-To Do
 
-### Download Method 2
-
-To Do
