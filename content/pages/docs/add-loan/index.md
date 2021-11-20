@@ -34,4 +34,4 @@ Come HMDA time though, you might be singing a different praise and a tune that i
 
 To get started, make sure you have already followed our instructions in the Get Started section. 
 
-Next, you'll want to launch the Add Loan 
+Next, you'll want to launch the Add Loan tool from the HMDA Hero 
