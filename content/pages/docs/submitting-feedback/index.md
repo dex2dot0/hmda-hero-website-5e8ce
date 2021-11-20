@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Manage Content
+      value: Feedback Submission
     - name: 'twitter:description'
       value: This is the manage content page
 layout: docs
