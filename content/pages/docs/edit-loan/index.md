@@ -4,7 +4,7 @@ excerpt: >-
   In this section you'll learn how to quickly search, find, and start editing a loan record.
 seo:
   title: Edit Loan
-  description: This is the manage content page
+  description: Edit Loan Records
   extra:
     - name: 'og:type'
       value: website
