@@ -1,7 +1,7 @@
 ---
 title: Loan Editing
 excerpt: >-
-  After a loan is selected, HMDA Hero 
+  After a loan is selected, HMDA Hero loads the data and 
 seo:
   title: Edit Loan
   description: Editing Loan Records
