@@ -12,7 +12,7 @@ seo:
       value: Edit Search
       keyName: property
     - name: 'og:description'
-      value: Installing HMDA Hero
+      value: Searching for Loan Records
       keyName: property
     - name: 'twitter:card'
       value: summary
