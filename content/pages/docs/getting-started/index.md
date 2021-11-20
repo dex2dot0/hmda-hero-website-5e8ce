@@ -22,9 +22,6 @@ seo:
       value: This is the getting started page
 layout: docs
 ---
+We are excited for you to try out HMDA Hero! Our greatest hope is that you find value in this resource and benefit from day one. Please visit each of the sections below to get started.
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
-
-***
-
-Here are the articles in this section:
+We welcome your feedback and hope that if you have any suggestions you submit those to us for further review so we can continue to improve HMDA Hero to best serve your needs. Please see the Submitting Feedback section to connect with us. 
