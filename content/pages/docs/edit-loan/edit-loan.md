@@ -28,6 +28,6 @@ Once a loan has been selected, the real work begins. The loan is loaded in to HM
 
 Moreover, HMDA Hero will help provide immediate feedback on the type of data you can enter for each field as well as regulatory references to ensure you know exactly how to report the data for the loan.
 
-<div class="note">
+<div class="positive">
   <strong>Note:</strong> Something positive here!
 </div>
