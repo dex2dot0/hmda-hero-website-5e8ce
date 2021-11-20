@@ -44,7 +44,7 @@ The HMDA Hero Add Loan tool will pop up on the right of your spreadsheet and pro
 
 
 <div class="note">
-  <strong>Note:\</strong> 
+  <strong>Note:</strong> 
   If you already have loans that are included in a pipe delimited HMDA LAR format and need to import them, please see our documentation on importing.
 </div>
 
