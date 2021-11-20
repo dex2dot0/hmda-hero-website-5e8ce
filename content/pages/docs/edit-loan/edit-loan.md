@@ -3,7 +3,7 @@ title: Loan Editing
 excerpt: >-
   After a loan is selected, HMDA Hero loads the data and offers tools to update validate data points. 
 seo:
-  title: Edit Loan
+  title: Loan Editing
   description: Editing Loan Records
   extra:
     - name: 'og:type'
