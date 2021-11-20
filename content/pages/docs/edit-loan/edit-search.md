@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Installation
+      value: Edit Search
       keyName: property
     - name: 'og:description'
       value: Installing HMDA Hero
