@@ -1,8 +1,7 @@
 ---
 title: Add Loan
 excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
-  are styled using Markdown elements with few additional CSS classes.
+  To make it easy to add new HMDA LAR records, HMDA Hero 
 seo:
   title: UI Components
   description: This is the UI components page
