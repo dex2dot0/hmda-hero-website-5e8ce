@@ -27,7 +27,7 @@ layout: docs
 
 <div class="note">
   <strong>Note:</strong> 
-  HMDA Hero will only works within a Microsoft Excel spreadsheet.
+  HMDA Hero will only work properly within a Microsoft Excel spreadsheet.
 </div>
 
 There a few options you can choose for downloading the HMDA Hero Micorosoft Excel Add-In.
