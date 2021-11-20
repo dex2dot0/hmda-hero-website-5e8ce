@@ -22,15 +22,6 @@ seo:
       value: Searching for Loan Records
 layout: docs
 ---
-## Download Microsoft Excel Add-In
-
-<div class="note">
-  <strong>Note:</strong> 
-  The search functionality will only show existing loan records
-</div>
-
-
-
 To get started, make sure you have already followed our instructions in the Get Started section.
 
 ### Open the Edit Loan menu
