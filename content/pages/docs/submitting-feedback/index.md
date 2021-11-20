@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:title'
       value: Feedback Submission
     - name: 'twitter:description'
-      value: This is the manage content page
+      value: Feedback Submission
 layout: docs
 ---
 
