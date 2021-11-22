@@ -29,4 +29,6 @@ With HMDA Hero you can easily import loan records from as many CFPB pipe delimit
 
 To get started, make sure you have already followed our instructions in the Get Started section.
 
-### Open the Edit Loan menu
+### Open the Import menu
+
+
