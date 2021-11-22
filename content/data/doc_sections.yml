@@ -5,6 +5,7 @@ sections:
   - add-loan
   - edit-loan
   - importing
+  - exporting
   - tools
   - faq
   - community
