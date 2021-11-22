@@ -23,4 +23,4 @@ seo:
       value: Importing Loan Records
 layout: docs
 ---
-With HMDA Hero you can easily import loan records from as many CFPB pipe delimited files as you need. 
+With HMDA Hero you can easily import loan records from as many CFPB pipe delimited files as you need. As a result, you can combine multiple 
