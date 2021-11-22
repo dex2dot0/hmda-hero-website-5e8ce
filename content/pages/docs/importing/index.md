@@ -1,8 +1,7 @@
 ---
 title: Importing Loan Records
 excerpt: >-
-  In this section you'll learn how to quickly search, find, and start editing a
-  loan record.
+  In this section you'll learn how to import loans from a CFPB 
 seo:
   title: Edit Loan
   description: Editing Loan Records
