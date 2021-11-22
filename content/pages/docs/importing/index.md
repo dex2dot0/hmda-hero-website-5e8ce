@@ -1,7 +1,8 @@
 ---
 title: Importing Loan Records
 excerpt: >-
-  In this section you'll learn how to import loans from a CFPB pipe delimitied formatted file.
+  In this section you'll learn how to import loans from a CFPB pipe delimitied
+  formatted file.
 seo:
   title: Importing Loan Records
   description: Importing Loan Records
@@ -23,12 +24,12 @@ seo:
       value: Importing Loan Records
 layout: docs
 ---
-With HMDA Hero you can easily import loan records from as many CFPB pipe delimited files as you need. As a result, you can combine the loan records across multiple loan systems in to a single HMDA LAR for filing purposes. 
+With HMDA Hero you can easily import loan records from as many CFPB pipe delimited files as you need. As a result, you can combine the loan records across multiple loan systems in to a single HMDA LAR for filing purposes.
 
----
+***
 
 To get started, make sure you have already followed our instructions in the Get Started section.
 
 ### Open the Import menu
 
-
+![](/images/import_menu.png)
