@@ -4,7 +4,7 @@ excerpt: >-
   In this section you'll learn how to import loans from a CFPB pipe delimitied formatted file.
 seo:
   title: Importing Loan Records
-  description: Editing Loan Records
+  description: Importing Loan Records
   extra:
     - name: 'og:type'
       value: website
