@@ -33,3 +33,5 @@ To get started, make sure you have already followed our instructions in the Get 
 ### Launch the Import tool from the HMDA Hero menu
 
 ![](/images/import_menu.png)
+
+
