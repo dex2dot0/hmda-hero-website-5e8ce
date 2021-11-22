@@ -13,7 +13,7 @@ seo:
       value: Manage Content
       keyName: property
     - name: 'og:description'
-      value: Editing Loan Records
+      value: Importing Loan Records
       keyName: property
     - name: 'twitter:card'
       value: summary
