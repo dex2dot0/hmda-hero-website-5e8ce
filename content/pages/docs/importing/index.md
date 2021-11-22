@@ -34,19 +34,18 @@ To get started, make sure you have already followed our instructions in the Get 
 
 ![](/images/import_menu.png)
 
-### Import Format
+### Import File Format
 
-HMDA Hero is able to import data from pipe delimited text files that meet the CFPB's formatting guidelines. You can check whether your import file meets these guidelines by using the [CFPB's File Format Verification Tool](https://ffiec.cfpb.gov/tools/file-format-verification). 
+HMDA Hero is able to import data from pipe delimited text files that meet the CFPB's formatting guidelines. You can check whether your import file meets these guidelines by using the [CFPB's File Format Verification Tool](https://ffiec.cfpb.gov/tools/file-format-verification).
 
 Import Options
 
-With the import tool launched you can select a file for import by either clicking in the Choose file box or clicking on the Browse button. Either option will bring up the same file selection window. 
+With the import tool launched you can select a file for import by either clicking in the Choose file box or clicking on the Browse button. Either option will bring up the same file selection window.
 
 ##### All Data Import
 
-If you select and import a file with the All Data option selected, the organization data contained on the first line of the import file will also be imported. 
+If you select and import a file with the All Data option selected, the organization data contained on the first line of the import file will also be imported.
 
 ##### Loan Data Only
 
-If you select and import a file with the Loan Data Only option selected, organization data will not be imported. 
-
+If you select and import a file with the Loan Data Only option selected, organization data will not be imported.
