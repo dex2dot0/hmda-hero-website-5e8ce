@@ -36,4 +36,4 @@ To get started, make sure you have already followed our instructions in the Get 
 
 ### Import Options
 
-With the import tool launched
+With the import tool launched, 
