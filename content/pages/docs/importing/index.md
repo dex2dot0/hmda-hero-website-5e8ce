@@ -34,4 +34,6 @@ To get started, make sure you have already followed our instructions in the Get 
 
 ![](/images/import_menu.png)
 
+### Import Options
 
+With the import tool launched
