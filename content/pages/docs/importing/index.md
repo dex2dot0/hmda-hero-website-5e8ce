@@ -23,4 +23,4 @@ seo:
       value: Importing Loan Records
 layout: docs
 ---
-With HMDA Hero you can easily import loan records from as many d
+With HMDA Hero you can easily import loan records from as many 
