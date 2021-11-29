@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Feedback
 weight: 2
 seo:
   title: Installation
