@@ -2,7 +2,7 @@
 title: Quick Input Buttons
 weight: 1
 seo:
-  title: Feedback & Validation
+  title: Quick Input Buttons
   description: Feedback & Validation
   extra:
     - name: 'og:type'
