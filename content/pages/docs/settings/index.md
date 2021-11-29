@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:title'
       value: HMDA Hero Global Settings
     - name: 'twitter:description'
-      value: Feedback Submission
+      value: HMDA Hero Global Settings
 layout: docs
 ---
 
