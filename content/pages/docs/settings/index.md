@@ -1,5 +1,5 @@
 ---
-title: Submitting Feedback
+title: Settings
 excerpt: >-
   We welcome your feedback and hope to improve the product in any way that we can!
 seo:
