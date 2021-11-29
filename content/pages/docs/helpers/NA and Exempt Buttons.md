@@ -12,7 +12,7 @@ seo:
       value: Quick Input Buttons
       keyName: property
     - name: 'og:description'
-      value: Feedback & Validation
+      value: Quick Input Buttons
       keyName: property
     - name: 'twitter:card'
       value: summary
