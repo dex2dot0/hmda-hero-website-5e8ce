@@ -2,7 +2,7 @@
 title: Feedback
 weight: 2
 seo:
-  title: Installation
+  title: Feedback
   description: Installing HMDA Hero
   extra:
     - name: 'og:type'
