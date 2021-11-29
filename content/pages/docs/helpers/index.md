@@ -1,7 +1,7 @@
 ---
 title: Helpers
 excerpt: >-
-  Quick Links, Feedback, and 
+  Quick Links, Feedback, and Helpers
 seo:
   title: Importing Loan Records
   description: Importing Loan Records
