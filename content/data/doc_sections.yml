@@ -6,4 +6,5 @@ sections:
   - edit-loan
   - importing
   - exporting
+  - helpers
   - submitting-feedback
