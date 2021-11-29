@@ -1,6 +1,6 @@
 ---
 title: Feedback
-weight: 2
+weight: 0
 seo:
   title: Feedback
   description: Installing HMDA Hero
