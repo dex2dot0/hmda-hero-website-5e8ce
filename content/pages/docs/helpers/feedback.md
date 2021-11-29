@@ -2,7 +2,7 @@
 title: Feedback & Validation
 weight: 0
 seo:
-  title: Feedback
+  title: Feedback & Validation
   description: Installing HMDA Hero
   extra:
     - name: 'og:type'
