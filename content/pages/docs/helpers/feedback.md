@@ -24,7 +24,7 @@ layout: docs
 ---
 ## Validation
 
-
+Most data entry fields will have validation 
 
 ### Download Method 1
 
