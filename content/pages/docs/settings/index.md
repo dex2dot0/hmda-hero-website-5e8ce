@@ -3,7 +3,7 @@ title: Settings
 excerpt: >-
   Global settings for HMDA Hero
 seo:
-  title: Submitting Feedback
+  title: Settings
   description: Feedback Submission
   extra:
     - name: 'og:type'
