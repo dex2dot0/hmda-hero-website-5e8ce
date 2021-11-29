@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Manage Content
+      value: Settings
       keyName: property
     - name: 'og:description'
       value: Feedback Submission
