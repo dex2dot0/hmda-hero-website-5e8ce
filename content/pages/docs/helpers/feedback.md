@@ -24,7 +24,7 @@ layout: docs
 ---
 ## Validation
 
-There a few options you can choose for downloading the HMDA Hero Micorosoft Excel Add-In. In effect, HMDA Hero is available wherever Microsoft Excel makes it available.
+
 
 ### Download Method 1
 
