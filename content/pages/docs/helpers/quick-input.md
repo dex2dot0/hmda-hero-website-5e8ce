@@ -24,7 +24,7 @@ layout: docs
 ---
 ## NA Button
 
-The NA button will be available for HMDA data fields where reporting NA is valid. The button allows the data field to toggle between NA or reporting as required. It makes it easier to report NA for that data point since the 
+The NA button will be available for HMDA data fields where reporting NA is valid. The button allows the data field to toggle between NA or reporting as required. It makes it easier to report NA for that data point since the specific reporting for NA differs by field, 
 
 
 
