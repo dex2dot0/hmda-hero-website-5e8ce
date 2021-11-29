@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Feedback Submission
+      value: HMDA Hero Global Settings
     - name: 'twitter:description'
       value: Feedback Submission
 layout: docs
