@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Edit Loan
+      value: Helpers
     - name: 'twitter:description'
       value: Helpers
 layout: docs
