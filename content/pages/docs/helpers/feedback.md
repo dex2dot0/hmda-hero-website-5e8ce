@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Installation
+      value: Feedback & Validation
     - name: 'twitter:description'
       value: Feedback & Validation
 layout: docs
