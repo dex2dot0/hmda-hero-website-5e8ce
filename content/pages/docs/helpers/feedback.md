@@ -24,7 +24,7 @@ layout: docs
 ---
 ## Validation
 
-Most data entry fields will have validation that works as soon as data is entered or loaded. For example, the Loan Amount field shown below is 
+Most data entry fields will have validation that works as soon as data is entered or loaded. For example, the Loan Amount field shown below is highlighted in red because
 
 ### Download Method 1
 
