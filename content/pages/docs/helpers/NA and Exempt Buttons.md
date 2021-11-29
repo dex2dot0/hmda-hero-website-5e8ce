@@ -1,5 +1,5 @@
 ---
-title: NA, Exempt, and Not a Number Buttons
+title: Quick Input Buttons
 weight: 1
 seo:
   title: Feedback & Validation
