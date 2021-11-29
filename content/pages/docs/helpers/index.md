@@ -3,7 +3,7 @@ title: Helpers
 excerpt: >-
   Quick Links, Feedback, and Helpers
 seo:
-  title: Importing Loan Records
+  title: Helpers
   description: Importing Loan Records
   extra:
     - name: 'og:type'
