@@ -4,7 +4,7 @@ excerpt: >-
   Quick Links, Feedback, and Helpers
 seo:
   title: Helpers
-  description: Importing Loan Records
+  description: Helpers
   extra:
     - name: 'og:type'
       value: website
