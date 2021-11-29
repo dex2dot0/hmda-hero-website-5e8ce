@@ -13,7 +13,7 @@ seo:
       value: Settings
       keyName: property
     - name: 'og:description'
-      value: Settings
+      value: HMDA Hero Global Settings
       keyName: property
     - name: 'twitter:card'
       value: summary
