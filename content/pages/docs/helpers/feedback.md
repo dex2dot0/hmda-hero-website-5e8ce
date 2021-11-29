@@ -24,7 +24,7 @@ layout: docs
 ---
 ## Validation
 
-Most data entry fields will have validation 
+Most data entry fields will have validation that works as soon as data is entered or loaded. 
 
 ### Download Method 1
 
