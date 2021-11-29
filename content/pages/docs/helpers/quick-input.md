@@ -24,6 +24,6 @@ layout: docs
 ---
 ## NA Button
 
-The NA button will be available for HMDA data fields where reporting NA is valid. 
+The NA button will be available for HMDA data fields where reporting NA is valid. The button allows
 
 
