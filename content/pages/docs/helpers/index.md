@@ -24,5 +24,3 @@ seo:
 layout: docs
 ---
 There are several helpers embedded in to HMDA Hero to make preparation easier. These include:
-
- will not be imported.
