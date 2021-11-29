@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Quick Input Buttons
     - name: 'twitter:description'
-      value: Feedback & Validation
+      value: Quick Input Buttons
 layout: docs
 ---
 ## Validation
