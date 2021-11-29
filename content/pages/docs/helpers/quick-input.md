@@ -24,4 +24,6 @@ layout: docs
 ---
 ## NA Button
 
+The NA button will be available for HMDA data fields where NA is a valid
+
 
