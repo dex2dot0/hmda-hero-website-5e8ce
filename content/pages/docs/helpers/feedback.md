@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Feedback & Validation
 weight: 0
 seo:
   title: Feedback
