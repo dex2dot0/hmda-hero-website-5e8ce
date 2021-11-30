@@ -1,5 +1,5 @@
 ---
-title: Quick Input Buttons
+title: Quick Help Buttons
 weight: 1
 seo:
   title: Quick Input Buttons
