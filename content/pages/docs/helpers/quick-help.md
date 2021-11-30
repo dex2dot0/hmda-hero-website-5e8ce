@@ -24,4 +24,4 @@ layout: docs
 ---
 ## Quick Help Information Button
 
-Clicking this button will popup a help box dialogue that contains 
+Clicking this button will popup a help box dialogue that contains the most pertinent reporting requirements for the 
