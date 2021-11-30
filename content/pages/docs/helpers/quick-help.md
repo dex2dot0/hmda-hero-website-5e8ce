@@ -22,7 +22,7 @@ seo:
       value: Quick Help Buttons
 layout: docs
 ---
-## NA Button
+## Quick Help Information Button
 
 The NA button will be available for free-form HMDA data fields where reporting NA is acceptable. The button allows the data field to toggle between reporting the specific code for NA or reporting as required. This makes it easier to report NA for that data point since the specific reporting code for NA differs by field, for example, it could be 1111, or NA, or Code 5, etc. By using the NA button, you don't need to worry about what the particular code is as HMDA Hero takes care of this for you.
 
