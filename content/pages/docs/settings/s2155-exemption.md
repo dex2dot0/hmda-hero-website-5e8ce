@@ -22,7 +22,7 @@ seo:
       value: S2155 Exemption Setting
 layout: docs
 ---
-## Validation
+## S2155 Exemption Setting
 
 Most data entry fields will have validation that provides feedback as soon as data is entered or loaded. For example, the Loan Amount field shown below is highlighted in red because the input box will only accept numerical characters:
 
