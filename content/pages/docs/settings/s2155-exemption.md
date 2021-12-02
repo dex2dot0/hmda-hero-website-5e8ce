@@ -24,4 +24,4 @@ layout: docs
 ---
 ## S2155 Exemption Setting
 
-If your organization is exempt from reporting fields in 
+If your organization qualifies for an S2155 exemption, you can optionally 
