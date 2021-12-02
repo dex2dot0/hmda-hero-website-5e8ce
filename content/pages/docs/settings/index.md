@@ -1,7 +1,6 @@
 ---
 title: Settings
-excerpt: >-
-  Global settings for HMDA Hero
+excerpt: Global settings for HMDA Hero
 seo:
   title: Settings
   description: Settings
@@ -23,10 +22,10 @@ seo:
       value: HMDA Hero Global Settings
 layout: docs
 ---
-
 ## HMDA Hero Settings
 
-There are a few settings in HMDA Hero that we'll discuss in this section. 
+There are a few settings in HMDA Hero that we'll discuss in this section.
 
 To open the settings menu, from the HMDA Hero Excel Ribbon, click on the Settings button:
 
+![](/images/SettingsMenu.png)
