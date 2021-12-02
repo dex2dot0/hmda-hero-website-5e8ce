@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Quick Help Buttons
+      value: Regulation Links Button
       keyName: property
     - name: 'og:description'
       value: Quick Help Buttons
