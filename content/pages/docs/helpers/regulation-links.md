@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Quick Help Buttons
     - name: 'twitter:description'
-      value: Quick Help Buttons
+      value: Quick link to regulatory citations and information
 layout: docs
 ---
 ## Quick Help Information Button 
