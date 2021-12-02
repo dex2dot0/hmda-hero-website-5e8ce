@@ -3,7 +3,7 @@ title: Regulation Links Button
 weight: 3
 seo:
   title: Regulation Links Button
-  description: 
+  description: Quick link to regulatory citations
   extra:
     - name: 'og:type'
       value: website
