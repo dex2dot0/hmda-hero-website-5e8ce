@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Installation
+      value: Legal Entity Identifier
       keyName: property
     - name: 'og:description'
       value: Feedback & Validation
