@@ -3,7 +3,7 @@ title: Legal Entity Identifier
 weight: 1
 seo:
   title: Legal Entity Identifier
-  description: Feedback & Validation
+  description: Legal Entity Identifier Setting
   extra:
     - name: 'og:type'
       value: website
