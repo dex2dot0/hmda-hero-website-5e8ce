@@ -1,5 +1,5 @@
 ---
-title: Reg
+title: Regulation Links Button
 weight: 2
 seo:
   title: Quick Help Buttons
