@@ -12,7 +12,7 @@ seo:
       value: S2155 Exemption Setting
       keyName: property
     - name: 'og:description'
-      value: Feedback & Validation
+      value: S2155 Exemption Setting
       keyName: property
     - name: 'twitter:card'
       value: summary
