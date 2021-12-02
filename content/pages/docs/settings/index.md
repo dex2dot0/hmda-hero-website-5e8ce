@@ -28,4 +28,4 @@ layout: docs
 
 There are a few settings in HMDA Hero that we'll discuss in this section. 
 
-To open the settings menu, 
+To open the settings menu, from the HMDA Hero Excel Ribbon
