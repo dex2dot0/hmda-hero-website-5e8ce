@@ -22,7 +22,9 @@ seo:
       value: Quick Help Buttons
 layout: docs
 ---
-## Quick Help Information Button
+## Quick Help Information Button 
+
+![](/images/Quick%20Help%20Icon.png)
 
 Clicking this button will popup a help box dialogue that contains the most pertinent reporting requirements for that particular HMDA field.
 
