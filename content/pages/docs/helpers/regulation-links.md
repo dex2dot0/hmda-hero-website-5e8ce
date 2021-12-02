@@ -1,5 +1,5 @@
 ---
-title: Quick Help Buttons
+title: Reg
 weight: 2
 seo:
   title: Quick Help Buttons
