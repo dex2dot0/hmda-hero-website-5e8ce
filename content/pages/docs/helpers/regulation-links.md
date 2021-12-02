@@ -22,10 +22,11 @@ seo:
       value: Quick link to regulatory citations and information
 layout: docs
 ---
-## Regulation Links 
+## Regulation Links
 
-![](/images/Quick%20Help%20Icon.png)
+![](/images/RegLink.png)
 
-Clicking this button will popup a help box dialogue that contains the most pertinent reporting requirements for that particular HMDA field.
+Clicking this button will open a new webpage to the direct regulatory citation/reference for that HMDA reporting field. 
 
-![](/images/Quick%20Help.gif)
+![](/images/RegLink.gif)
+
