@@ -27,3 +27,5 @@ layout: docs
 ## HMDA Hero Settings
 
 There are a few settings in HMDA Hero that we'll discuss in this section. 
+
+
