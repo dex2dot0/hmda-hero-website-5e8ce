@@ -24,4 +24,6 @@ layout: docs
 ---
 ## Quick Help Information Button
 
-Clicking this button will popup a help box dialogue that contains the most pertinent reporting requirements for that particular HMDA field. 
+Clicking this button will popup a help box dialogue that contains the most pertinent reporting requirements for that particular HMDA field.
+
+![](/images/Quick%20Help.gif)
