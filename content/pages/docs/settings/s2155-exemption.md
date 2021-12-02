@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: S2155 Exemption Setting
     - name: 'twitter:description'
-      value: Feedback & Validation
+      value: S2155 Exemption Setting
 layout: docs
 ---
 ## Validation
