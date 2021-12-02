@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Feedback & Validation
+      value: S2155 Exemption Setting
     - name: 'twitter:description'
       value: Feedback & Validation
 layout: docs
