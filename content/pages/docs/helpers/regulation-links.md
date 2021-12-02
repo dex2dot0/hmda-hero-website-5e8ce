@@ -12,7 +12,7 @@ seo:
       value: Regulation Links Button
       keyName: property
     - name: 'og:description'
-      value: Quick Help Buttons
+      value: Quick link to regulatory citations and information
       keyName: property
     - name: 'twitter:card'
       value: summary
