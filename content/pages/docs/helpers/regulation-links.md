@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Quick Help Buttons
+      value: Regulation Links Button
     - name: 'twitter:description'
       value: Quick link to regulatory citations and information
 layout: docs
