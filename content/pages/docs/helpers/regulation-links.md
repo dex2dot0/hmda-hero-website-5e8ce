@@ -22,7 +22,7 @@ seo:
       value: Quick link to regulatory citations and information
 layout: docs
 ---
-## Regulation Link  
+## Regulation Links 
 
 ![](/images/Quick%20Help%20Icon.png)
 
