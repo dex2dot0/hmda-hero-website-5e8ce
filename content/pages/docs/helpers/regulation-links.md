@@ -2,7 +2,7 @@
 title: Regulation Links Button
 weight: 3
 seo:
-  title: Quick Help Buttons
+  title: Regulation Links Button
   description: Quick Help Buttons
   extra:
     - name: 'og:type'
