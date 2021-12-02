@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Feedback & Validation
+      value: Legal Entity Identifier
     - name: 'twitter:description'
       value: Feedback & Validation
 layout: docs
