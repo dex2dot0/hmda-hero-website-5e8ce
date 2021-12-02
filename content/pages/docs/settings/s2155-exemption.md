@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Installation
+      value: S2155 Exemption Setting
       keyName: property
     - name: 'og:description'
       value: Feedback & Validation
