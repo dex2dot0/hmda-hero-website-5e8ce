@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Legal Entity Identifier
     - name: 'twitter:description'
-      value: Feedback & Validation
+      value: Legal Entity Identifier Setting
 layout: docs
 ---
 ## Validation
