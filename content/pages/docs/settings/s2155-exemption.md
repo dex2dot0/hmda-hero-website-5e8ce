@@ -3,7 +3,7 @@ title: S2155 Exemption Setting
 weight: 0
 seo:
   title: S2155 Exemption Setting
-  description: Feedback & Validation
+  description: Toggle the S2155 exemption globally
   extra:
     - name: 'og:type'
       value: website
