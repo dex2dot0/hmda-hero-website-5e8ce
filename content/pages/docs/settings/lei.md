@@ -12,7 +12,7 @@ seo:
       value: Legal Entity Identifier
       keyName: property
     - name: 'og:description'
-      value: Feedback & Validation
+      value: Legal Entity Identifier Setting
       keyName: property
     - name: 'twitter:card'
       value: summary
