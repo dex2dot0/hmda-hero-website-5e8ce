@@ -1,6 +1,6 @@
 ---
 title: Regulation Links Button
-weight: 2
+weight: 3
 seo:
   title: Quick Help Buttons
   description: Quick Help Buttons
