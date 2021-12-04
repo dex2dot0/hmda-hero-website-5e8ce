@@ -1,7 +1,8 @@
 ---
 title: Exporting Loan Records
 excerpt: >-
-  In this section you'll learn how to export loans to a CFPB pipe delimited formatted file.
+  In this section you'll learn how to export loans to a CFPB pipe delimited
+  formatted file.
 seo:
   title: Exporting Loan Records
   description: Exporting Loan Records
@@ -29,22 +30,16 @@ With HMDA Hero you can export loan records in a CFPB pipe delimited format using
 
 ## Standard CFPB Export File
 
-This is the default CFPB pipe delimited file. It will include all the fields present in the Excel file formatted to CFPB specifications. 
+This is the default CFPB pipe delimited file. It will include all the fields present in the Excel file formatted to CFPB specifications.
 
+![](/images/StandardCFPBExport.png)
 
+## S2155 Exempt Export
 
-### Import File Format
+Checking this option on the export will export all fields present in the Excel file formatted to CFPB specifications except fields that qualify for an S2155 exemption. For those fields, instead of the current data in the Excel file being exported, it will instead be replaced with the exemption code for that data point. This allows organizations to compile all HMDA data in the Excel file so they can retain this information while taking advantage of the S2155 exemptions HMDA allows. It is recommended that S2155 exempt organizations enter all data without regard to any S2155 exemptions and then use this export option when generating the export file. 
 
-HMDA Hero is able to import data from pipe delimited text files that meet the CFPB's formatting guidelines. You can check whether your import file meets these guidelines by using the [CFPB's File Format Verification Tool](https://ffiec.cfpb.gov/tools/file-format-verification).
+![](/images/S2155CFPBExport.png)
 
-Import Options
+## Export File
 
-With the import tool launched you can select a file for import by either clicking in the Choose file box or clicking on the Browse button. Either option will bring up the same file selection window.
-
-##### All Data Import
-
-If you select and import a file with the All Data option selected, the organization data contained on the first line of the import file will also be imported.
-
-##### Loan Data Only
-
-If you select and import a file with the Loan Data Only option selected, organization data will not be imported.
+Once a selection has been made on the type of export, click the Download Export File button to generate the CFPB formatted pipe delimited file. This file can then be uploaded during the HMDA filing process. 
