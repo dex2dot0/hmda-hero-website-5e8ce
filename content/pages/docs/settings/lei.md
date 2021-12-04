@@ -24,4 +24,4 @@ layout: docs
 ---
 ## Legal Entity Identifier
 
-This setting stores your organization's LEI. HMDA Hero will try to infer your organization's LEI from the data contained in the current Excel file. If the LEI cannot be retrieved however, it can be entered in this section of the settings pane. Certain features of HMDA Hero require the LEI in order to work. If the LEI is not entered
+This setting stores your organization's LEI. HMDA Hero will try to infer your organization's LEI from the data contained in the current Excel file. If the LEI cannot be retrieved however, it can be entered in this section of the settings pane. Certain features of HMDA Hero require the LEI in order to work. If the LEI is not entered in this section, you can 
