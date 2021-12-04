@@ -23,3 +23,5 @@ seo:
 layout: docs
 ---
 ## Legal Entity Identifier
+
+This setting stores your organization's LEI. 
