@@ -28,5 +28,9 @@ If your organization qualifies for an S2155 exemption, you can optionally apply 
 
 ![](/images/S2155ExemptionSetting.png)
 
-This is completely optional as it will hide all exempt fields from input in case you do not want to have to input these fields. You can then use the exempt export when exporting and the exempt fields that have not been previously completed will automatically be coded as exempt for reporting purposes. 
+This is completely optional as it will hide all exempt fields from input in case you do not want to have to input these fields. You can then use the exempt export when exporting and the exempt fields that have not been previously completed will automatically be coded as exempt for reporting purposes.
 
+\<div class="note">
+  \<strong>Note:\</strong> 
+  It is strongly recommended that you input all HMDA fields with the data you have available to retain for your records and for auditing purposes. 
+\</div>
