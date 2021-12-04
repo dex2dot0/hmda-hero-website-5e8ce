@@ -23,7 +23,7 @@ seo:
       value: Exporting Loan Records
 layout: docs
 ---
-With HMDA Hero you can easily import loan records from as many CFPB pipe delimited files as you need. As a result, you can combine the loan records across multiple loan systems in to a single HMDA LAR for filing purposes.
+With HMDA Hero you can export loan records 
 
 ***
 
