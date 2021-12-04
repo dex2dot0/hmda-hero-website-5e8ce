@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Manage Content
+      value: Exporting Loan Records
       keyName: property
     - name: 'og:description'
       value: Exporting Loan Records
