@@ -29,6 +29,8 @@ With HMDA Hero you can export loan records in a CFPB pipe delimited format using
 
 ## Standard CFPB Export File
 
+
+
 ![](/images/import_menu.png)
 
 ### Import File Format
