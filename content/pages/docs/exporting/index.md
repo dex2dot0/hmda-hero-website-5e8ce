@@ -23,7 +23,7 @@ seo:
       value: Exporting Loan Records
 layout: docs
 ---
-With HMDA Hero you can export loan records in a CFPB pipe delimited format 
+With HMDA Hero you can export loan records in a CFPB pipe delimited format using two methods
 
 ***
 
