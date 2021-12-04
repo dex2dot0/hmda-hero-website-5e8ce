@@ -32,6 +32,7 @@ With HMDA Hero you can export loan records in a CFPB pipe delimited format using
 This is the default CFPB pipe delimited file. It will include all the fields present in the Excel file formatted to CFPB specifications. 
 
 
+
 ### Import File Format
 
 HMDA Hero is able to import data from pipe delimited text files that meet the CFPB's formatting guidelines. You can check whether your import file meets these guidelines by using the [CFPB's File Format Verification Tool](https://ffiec.cfpb.gov/tools/file-format-verification).
