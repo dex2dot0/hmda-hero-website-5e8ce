@@ -3,7 +3,7 @@ title: Exporting Loan Records
 excerpt: >-
   In this section you'll learn how to export loans to a CFPB pipe delimited formatted file.
 seo:
-  title: Importing Loan Records
+  title: Exporting Loan Records
   description: Importing Loan Records
   extra:
     - name: 'og:type'
