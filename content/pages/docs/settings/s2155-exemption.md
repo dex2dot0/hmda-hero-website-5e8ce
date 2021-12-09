@@ -24,7 +24,7 @@ layout: docs
 ---
 ## S2155 Exemption Setting
 
-If your organization qualifies for an S2155 exemption, you can optionally apply this setting to change the behavior of HMDA Hero.
+If your organization qualifies for an [S2155 exemption](https://files.consumerfinance.gov/f/documents/bcfp_hmda_interpretive-procedural-rule\_2018-08.pdf), you can optionally apply this setting to change the behavior of HMDA Hero.
 
 ![](/images/S2155ExemptionSetting.png)
 
