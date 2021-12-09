@@ -39,7 +39,8 @@
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
-            }
+            },
+            
         ]
     },
     "domain": "https://github.com/dex2dot0/HMDA-Hero"
