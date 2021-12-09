@@ -32,7 +32,7 @@ This is completely optional as it will hide all exempt fields from input in case
 
 <div class="note">
 <strong>Note:</strong>
-It is strongly recommended that you input all HMDA fields with the data you have available to retain for your records and for auditing purposes.
+If
 </div>
 
 You can then use the [exempt export option](https://www.hmdahero.com/docs/exporting/#s2155-exempt-export) when exporting and the exempt fields that have not been previously completed will automatically be coded as exempt for reporting purposes.
