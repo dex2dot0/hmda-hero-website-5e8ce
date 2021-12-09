@@ -32,7 +32,7 @@ This is completely optional as it will hide all exempt fields from input in case
 
 <div class="note">
 <strong>Imported Data</strong>
-If
+If you have data that has been imported 
 </div>
 
 You can then use the [exempt export option](https://www.hmdahero.com/docs/exporting/#s2155-exempt-export) when exporting and the exempt fields that have not been previously completed will automatically be coded as exempt for reporting purposes.
