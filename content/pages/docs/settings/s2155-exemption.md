@@ -30,11 +30,6 @@ If your organization qualifies for an S2155 exemption, you can optionally apply 
 
 This is completely optional as it will hide all exempt fields from input in case you do not want to have to input these fields. It will not set the field values to reflect exemption codes, this setting merely hides the fields from HMDA Hero so you don't need to worry about them. 
 
-<div class="note">
-<strong>Imported Data</strong>
-If you have data that has been imported 
-</div>
-
 You can then use the [exempt export option](https://www.hmdahero.com/docs/exporting/#s2155-exempt-export) when exporting and the exempt fields that have not been previously completed will automatically be coded as exempt for reporting purposes.
 
 <div class="note">
