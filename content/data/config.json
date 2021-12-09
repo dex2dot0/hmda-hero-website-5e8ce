@@ -42,7 +42,8 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "/legal/privacy-policy.docx"
+                "url": "/legal/privacy-policy.docx",
+                
             }
         ]
     },
