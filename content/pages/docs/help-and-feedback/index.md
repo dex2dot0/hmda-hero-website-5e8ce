@@ -28,3 +28,7 @@ layout: docs
 
 The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an open source/free project which unfortunately means we have day jobs and responsibilities beyond supporting this project. While every effort will be made to assist you as quick as possible, please be aware upfront that our bandwidth is limited. 
 
+<div class="note">
+  <strong>Note:</strong> 
+  While HMDA Hero will work on any Excel spreadsheet, it relies on the specific formatting of the CFPB's version to work properly.
+</div>
