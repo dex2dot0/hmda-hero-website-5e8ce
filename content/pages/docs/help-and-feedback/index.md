@@ -35,6 +35,6 @@ The quickest way to get help is to email <support@hmdahero.com>. HMDA Hero is an
 
 <div class="note">
   <strong>Community Help</strong> 
-  While HMDA Hero does not have a community resource today to turn to for help, we'd be interested to hear if such a resource would be beneficial in your case. Please let us know if you would benefit from a community driven resource. 
+  While HMDA Hero does not have a community resource as of today to turn to for help, we'd be interested to hear if such a resource would be beneficial in your case. Please let us know if you would benefit from a community driven resource. 
 </div>
 
