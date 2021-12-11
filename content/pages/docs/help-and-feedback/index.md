@@ -3,7 +3,7 @@ title: Help & Feedback
 excerpt: >-
   We welcome your feedback and hope to improve the product in any way that we reasonably can!
 seo:
-  title: Submitting Feedback
+  title: Submitting Feedback & Getting Help
   description: Feedback Submission
   extra:
     - name: 'og:type'
