@@ -30,5 +30,5 @@ The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an o
 
 <div class="note">
   <strong>Community Help</strong> 
-  While HMDA Hero will work on any Excel spreadsheet, it relies on the specific formatting of the CFPB's version to work properly.
+  While HMDA Hero does not have a community resource today to turn to for help, we'd be interested to hear if such a resource would be beneficial 
 </div>
