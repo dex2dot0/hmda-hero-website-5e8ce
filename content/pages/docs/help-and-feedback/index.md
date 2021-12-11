@@ -34,6 +34,6 @@ The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an o
 </div>
 
 <div class="important">
-  <strong>Note:</strong> 
+  <strong>Sensitive Information</strong> 
   While HMDA Hero will work on any Excel spreadsheet, it relies on the specific formatting of the CFPB's version to work properly.
 </div>
