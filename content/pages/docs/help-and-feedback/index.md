@@ -35,5 +35,5 @@ The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an o
 
 <div class="important">
   <strong>Sensitive Information</strong> 
-  Please do not send any sensitive data including but not limited to customer Publicly Identifiable Information (PII). By contacting HMDA Hero, you assume responsibility to protect sensitive data.
+  Please do not send any sensitive data including but not limited to customer Publicly Identifiable Information (PII). By contacting HMDA Hero, you assume full responsibility to protect sensitive data.
 </div>
