@@ -1,7 +1,8 @@
 ---
 title: Help & Feedback
 excerpt: >-
-  We welcome your feedback and hope to improve the product in any way that we reasonably can!
+  We welcome your feedback and hope to improve the product in any way that we
+  reasonably can!
 seo:
   title: Submitting Feedback & Getting Help
   description: Feedback & Help
@@ -23,10 +24,9 @@ seo:
       value: Submitting Feedback & Getting Help
 layout: docs
 ---
-
 ## Help & Feedback
 
-The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an open source/free project which unfortunately means we have day jobs and responsibilities beyond supporting this project. While every effort will be made to assist you as quick as possible, please be aware upfront that our bandwidth is limited. 
+The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an open source/free project which unfortunately means we have day jobs and responsibilities beyond supporting this project. While every effort will be made to assist you as quick as possible, please be aware upfront that our bandwidth is limited.
 
 <div class="note">
   <strong>Community Help</strong> 
@@ -35,5 +35,5 @@ The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an o
 
 <div class="important">
   <strong>Sensitive Information</strong> 
-  When reaching out for support, please do not send any sensitive data! This includes but is not limited to customer Publicly Identifiable Information (PII). By contacting HMDA Hero, you assume full responsibility to protect sensitive data where applicable and agree to hold HMDA Hero harmless for any violation on this matter. 
+  When reaching out for support, please do not send any sensitive data! This includes but is not limited to customers' Publicly Identifiable Information (PII) and any other data/information that could be classified as sensitive. By contacting HMDA Hero, you assume full responsibility to protect sensitive data where applicable and agree to hold HMDA Hero harmless for any violation on this matter. 
 </div>
