@@ -24,7 +24,6 @@ seo:
       value: Submitting Feedback & Getting Help
 layout: docs
 ---
-## Help & Feedback
 
 The quickest way to get help is to email <support@hmdahero.com>. HMDA Hero is an open source/free project which unfortunately means we have day jobs and responsibilities beyond supporting this project. While every effort will be made to assist you as quickly as possible, please be aware upfront that our bandwidth may be limited.
 
