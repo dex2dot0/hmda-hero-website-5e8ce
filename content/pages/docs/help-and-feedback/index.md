@@ -1,7 +1,7 @@
 ---
 title: Help & Feedback
 excerpt: >-
-  We welcome your feedback and hope to improve the product in any way that we can!
+  We welcome your feedback and hope to improve the product in any way that we reasonably can!
 seo:
   title: Submitting Feedback
   description: Feedback Submission
