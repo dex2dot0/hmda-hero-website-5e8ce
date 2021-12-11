@@ -35,5 +35,5 @@ The quickest way to get help is to email support@hmdahero.com. HMDA Hero is an o
 
 <div class="important">
   <strong>Sensitive Information</strong> 
-  Please do not send any sensitive data 
+  Please do not send any sensitive data including customer P
 </div>
