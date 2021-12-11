@@ -6,8 +6,7 @@ sections:
     title: HMDA Is Hard!
     image: /images/shattered-island.gif
     content: >
-      We'd like to change that or at least make it easier. HMDA Hero is a free
-      forever, open codebase, that anyone can use freely or contribute to!
+      We'd like to change that or at least make it easier. HMDA Hero is a free forever, open codebase, that anyone can use freely or contribute to!
     actions:
       - label: Download HMDA Hero
         url: /docs
