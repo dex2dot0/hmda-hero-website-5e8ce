@@ -4,7 +4,7 @@ excerpt: >-
   We welcome your feedback and hope to improve the product in any way that we reasonably can!
 seo:
   title: Submitting Feedback & Getting Help
-  description: Feedback Submission
+  description: Feedback & Help
   extra:
     - name: 'og:type'
       value: website
