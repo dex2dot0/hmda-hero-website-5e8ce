@@ -13,7 +13,7 @@ seo:
       value: Feedback & Help
       keyName: property
     - name: 'og:description'
-      value: Feedback Submission
+      value: Submitting Feedback & Getting Help
       keyName: property
     - name: 'twitter:card'
       value: summary
