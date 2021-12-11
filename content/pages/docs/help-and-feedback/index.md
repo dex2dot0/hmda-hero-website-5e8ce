@@ -1,5 +1,5 @@
 ---
-title: Submitting Feedback
+title: Help & Feedback
 excerpt: >-
   We welcome your feedback and hope to improve the product in any way that we can!
 seo:
