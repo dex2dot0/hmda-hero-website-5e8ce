@@ -21,7 +21,7 @@
             },
             {
                 "label": "DEMO",
-                "url": "/docs",
+                "url": "/demo",
                 "style": "link",
                 "has_subnav": false
             },
