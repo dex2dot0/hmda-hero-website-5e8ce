@@ -10,7 +10,7 @@ sections:
       # ![](/images/index-recording.gif)
 
     actions: []
-    type: section_vid
+    type: section_gif
 seo:
   title: HMDA Hero Demo
   description: HMDA Hero Demo
