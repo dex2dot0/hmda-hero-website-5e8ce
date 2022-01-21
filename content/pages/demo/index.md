@@ -8,7 +8,7 @@ sections:
   - section_id: lorem-ipsu
     content: 
     actions: []
-    type: section_gif
+    type: section_youtube
 seo:
   title: HMDA Hero Demo
   description: HMDA Hero Demo
