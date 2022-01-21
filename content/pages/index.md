@@ -22,7 +22,7 @@ sections:
       powerful tools we help make scrubs easier, editing a breeze, and more.
     actions:
       - label: View Demo
-        url: /docs/getting-started
+        url: /demo
         style: primary
       - label: Get Started
         url: /docs/getting-started
