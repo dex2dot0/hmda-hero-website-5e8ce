@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Demo
     image: /images/shattered-island.gif
-  - section_id: lorem-ipsum
+  - section_id: lorem-ipsu
     content: 
     actions: []
     type: section_gif
