@@ -12,7 +12,7 @@ sections:
     actions: []
     type: section_gif
 seo:
-  title: HMDA Hero
+  title: HMDA Hero Demo
   description: HMDA Hero Homepage
   extra:
     - name: 'og:type'
