@@ -5,10 +5,6 @@ sections:
     type: section_hero
     title: Demo
     image: /images/shattered-island.gif
-    actions:
-      - label: Download HMDA Hero
-        url: /docs
-        style: primary
   - section_id: text-img
     type: section_content
     image: /images/Data organization_Flatline.svg
