@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
 
-export default class SectionHero extends React.Component {
+export default class SectionYoutube extends React.Component {
     render() {
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
