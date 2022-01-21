@@ -11,7 +11,7 @@ import SectionDocs from './SectionDocs';
 import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
 import SectionGif from './SectionGif';
-import SectionYoutube from './SectionYoutube'
+import SectionYoutube from './SectionYoutube';
 
 export { Action, CtaButtons, DocsMenu, Footer, Header, Layout, Icon, SectionContent, SectionCta, SectionDocs, SectionGrid, SectionHero, SectionGif, };
 
