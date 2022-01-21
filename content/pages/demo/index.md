@@ -5,7 +5,6 @@ sections:
     type: section_hero
     title: Demo
     image: /images/shattered-island.gif
-
   - section_id: lorem-ipsum
     content: |+
       # ![](/images/index-recording.gif)
