@@ -20,7 +20,7 @@
                 "has_subnav": false
             },
             {
-                "label": "DOCUMENTATION",
+                "label": "DEMO",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
