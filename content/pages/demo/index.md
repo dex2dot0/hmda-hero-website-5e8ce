@@ -5,55 +5,7 @@ sections:
     type: section_hero
     title: Demo
     image: /images/shattered-island.gif
-  - section_id: text-img
-    type: section_content
-    image: /images/Data organization_Flatline.svg
-    image_position: left
-    title: Simple and Powerful!
-    content: >
-      HMDA Hero is a free forever Add-In for Microsoft Excel made to make
-      quarter and year-end HMDA filing a bit easier! With some simple but
-      powerful tools we help make scrubs easier, editing a breeze, and more.
-    actions:
-      - label: View Demo
-        url: /demo
-        style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
-  - title: Features
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: >
-      Visual editor for adding, editing, importing, and exporting loan records
 
-
-      Exemption support
-
-
-      ULI generation and validation
-
-
-      Search across all loan records
-
-
-      Works from the same [CFPB LAR Formatting Tool
-      ](https://ffiec.cfpb.gov/tools/lar-formatting) you already use
-
-
-      Embedded regulatory insights, links, and validations
-
-
-      Filing resource links
-
-
-      Importing and merging from multiple pipe-delimited LAR formatted files
-
-
-      and more!
-    actions: []
-    type: section_content
   - section_id: lorem-ipsum
     content: |+
       # ![](/images/index-recording.gif)
