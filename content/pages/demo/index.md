@@ -19,7 +19,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: HMDA Hero Homepage
+      value: HMDA Hero Demo
       keyName: property
     - name: 'og:description'
       value: HMDA Hero Homepage
