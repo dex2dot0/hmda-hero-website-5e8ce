@@ -7,7 +7,7 @@ sections:
     image: /images/shattered-island.gif
   - section_id: lorem-ipsum
   https://youtu.be/uzwJ3I7pwFY
-    content: [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+    content: [![IMAGE HMDA Hero](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
     actions: []
     type: section_gif
 seo:
