@@ -22,7 +22,7 @@ seo:
       value: HMDA Hero Demo
       keyName: property
     - name: 'og:description'
-      value: HMDA Hero Homepage
+      value: HMDA Hero Demo
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
