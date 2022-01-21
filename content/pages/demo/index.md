@@ -8,7 +8,6 @@ sections:
   - section_id: lorem-ipsum
     content: |+
       # ![](/images/index-recording.gif)
-
     actions: []
     type: section_gif
 seo:
