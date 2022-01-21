@@ -11,14 +11,6 @@ sections:
 
     actions: []
     type: section_gif
-  - section_id: cta
-    type: section_cta
-    title: Download the Microsoft Excel Add-in Today
-    subtitle: Its free and simple to get started!
-    actions:
-      - label: Download Now
-        url: /docs/getting-started/installation
-        style: primary
 seo:
   title: HMDA Hero
   description: HMDA Hero Homepage
