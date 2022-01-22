@@ -7,7 +7,7 @@ import useMediaQuery from "../hooks/useMediaQuery";
 
 function SectionYoutube(props) {
     const isDesktop = useMediaQuery('(min-width: 960px)');
-    const section = _.get(this.props, 'section');
+    const section = _.get(props, 'section');
     const sectionId = _.get(section, 'section_id');
     const title = _.get(section, 'title');
     const content = _.get(section, 'content');
