@@ -3,8 +3,11 @@ import _ from 'lodash';
 
 import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
+import useMediaQuery from "../hooks/useMediaQuery";
 
 export default function SectionYoutube(props) {
+    const isDesktop = useMediaQuery('(min-width: 960px)');
+    console.log(`is desktop ${isDesktop}`);
     const section = _.get(props, 'section');
     const sectionId = _.get(section, 'section_id');
     const title = _.get(section, 'title');
@@ -22,10 +25,10 @@ export default function SectionYoutube(props) {
                     }}
                 />
             )}
-            <iframe id="ytplayer" type="text/html" width='100%' height='720px'
-            src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1'
-            frameborder="0" allowfullscreen>
-            </iframe>
+                <iframe id="ytplayer" type="text/html" width='100%' height='720px'
+                src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1'
+                frameborder="0" allowfullscreen>
+                </iframe>
         </section>
     );
 }
