@@ -33,3 +33,5 @@ function SectionYoutube () {
         </section>
     );
 }
+
+export default SectionYoutube;
