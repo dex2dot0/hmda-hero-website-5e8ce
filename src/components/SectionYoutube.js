@@ -5,7 +5,7 @@ import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
 import useMediaQuery from "../hooks/useMediaQuery";
 
-export default function SectionYoutube(props) {
+export default SectionYoutube(props) {
     const isDesktop = useMediaQuery('(min-width: 960px)');
     const section = _.get(props, 'section');
     const sectionId = _.get(section, 'section_id');
