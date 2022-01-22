@@ -27,7 +27,6 @@ export default class SectionYoutube extends React.Component {
                     <iframe id="ytplayer" type="text/html" width="95%" height="720"
                     src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1&origin=http://hmda-hero.com'
                     frameborder="0" allowfullscreen>
-
                     </iframe>
                 </div>
             </section>
