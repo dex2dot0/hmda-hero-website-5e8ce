@@ -29,12 +29,6 @@ export default class SectionYoutube extends React.Component {
                     frameborder="0" allowfullscreen>
 
                     </iframe>
-                    {content && <div className="block-gif">{markdownify(content)}</div>}
-                    {!_.isEmpty(actions) && (
-                        <div className="block-buttons">
-                            <CtaButtons actions={actions} />
-                        </div>
-                    )}
                 </div>
             </section>
         );
