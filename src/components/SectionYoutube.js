@@ -25,7 +25,7 @@ export default function SectionYoutube(props) {
                 />
             )}
             <div className="gif-sm">
-                <iframe id="ytplayer" type="text/html" width="95%" height={isDesktop ? '1080px' : '720px'}
+                <iframe id="ytplayer" type="text/html" width="" height={isDesktop ? '1080px' : '720px'}
                 src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1&origin=http://hmda-hero.com'
                 frameborder="0" allowfullscreen>
                 </iframe>
