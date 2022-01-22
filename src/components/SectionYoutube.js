@@ -29,7 +29,6 @@ export default function SectionYoutube(props) {
                 src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1'
                 frameborder="0" allowfullscreen>
                 </iframe>
-
         </section>
     );
 }
