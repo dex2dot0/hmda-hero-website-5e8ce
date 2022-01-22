@@ -6,7 +6,6 @@ import CtaButtons from './CtaButtons';
 import useMediaQuery from "../hooks/useMediaQuery";
 
 export default SectionYoutube = () => {
-    return {
         const isDesktop = useMediaQuery('(min-width: 960px)');
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
