@@ -25,10 +25,10 @@ export default function SectionYoutube(props) {
                     }}
                 />
             )}
-                <iframe id="ytplayer" type="text/html" width='100%' height='720px'
-                src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1'
-                frameborder="0" allowfullscreen>
-                </iframe>
+            <iframe id="ytplayer" type="text/html" width='100%' height='720px'
+            src='https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1'
+            frameborder="0" allowfullscreen>
+            </iframe>
         </section>
     );
 }
