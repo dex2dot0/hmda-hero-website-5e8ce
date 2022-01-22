@@ -6,13 +6,13 @@ import CtaButtons from './CtaButtons';
 import useMediaQuery from "../hooks/useMediaQuery";
 
 export default SectionYoutube = () => {
-        const isDesktop = useMediaQuery('(min-width: 960px)');
-        const section = _.get(this.props, 'section');
-        const sectionId = _.get(section, 'section_id');
-        const title = _.get(section, 'title');
-        const content = _.get(section, 'content');
-        const actions = _.get(section, 'actions');
-        const backgroundImage = _.get(section, 'image');
+    const isDesktop = useMediaQuery('(min-width: 960px)');
+    const section = _.get(this.props, 'section');
+    const sectionId = _.get(section, 'section_id');
+    const title = _.get(section, 'title');
+    const content = _.get(section, 'content');
+    const actions = _.get(section, 'actions');
+    const backgroundImage = _.get(section, 'image');
 
     return (
         <section id={sectionId} className="block block-hero has-gradient outer">
