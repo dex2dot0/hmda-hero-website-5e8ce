@@ -7,6 +7,7 @@ import useMediaQuery from "../hooks/useMediaQuery";
 
 export default class SectionYoutube extends React.Component {
     render() {
+        const isDesktop = useMediaQuery('(min-width: 960px)');
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
         const title = _.get(section, 'title');
