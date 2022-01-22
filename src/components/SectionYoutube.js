@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
-import useMediaQuery from "./hooks/useMediaQuery";
+import useMediaQuery from "../hooks/useMediaQuery";
 
 const isDesktop = useMediaQuery('(min-width: 960px)');
 
