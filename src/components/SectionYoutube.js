@@ -33,5 +33,3 @@ export default function SectionYoutube(props) {
         </section>
     );
 }
-
-export default SectionYoutube;
