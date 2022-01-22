@@ -23,7 +23,6 @@ export default class SectionYoutube extends React.Component {
                         }}
                     />
                 )}
-                https://youtu.be/uzwJ3I7pwFY
                 <div className="gif-sm">
                     <iframe id="ytplayer" type="text/html" width="640" height="360"
                     src="https://www.youtube.com/embed/uzwJ3I7pwFY?autoplay=1&origin=http://hmda-hero.com"
