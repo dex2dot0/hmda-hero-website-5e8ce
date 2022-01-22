@@ -25,7 +25,7 @@ export default function SectionYoutube(props) {
                     }}
                 />
             )}
-            <iframe id="ytplayer" allow="fullscreen"
+            <iframe id="ytplayer" allow="fullscreen;"
             mozallowfullscreen="mozallowfullscreen" 
             msallowfullscreen="msallowfullscreen" 
             oallowfullscreen="oallowfullscreen" 
