@@ -5,9 +5,9 @@ import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
 import useMediaQuery from "./hooks/useMediaQuery";
 
+const isDesktop = useMediaQuery('(min-width: 960px)');
+
 export default class SectionYoutube extends React.Component {
-    const isDesktop = useMediaQuery('(min-width: 960px)');
-    
     render() {
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
