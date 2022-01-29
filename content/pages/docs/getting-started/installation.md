@@ -33,8 +33,4 @@ There a few options you can choose for downloading the HMDA Hero Micorosoft Exce
 
 ### Download Method 1
 
-To Do
-
-### Download Method 2
-
-To Do
+Coming soon....
